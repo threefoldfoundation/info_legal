@@ -4,8 +4,7 @@
 
 ## Information
 
-See the following link for used Definitions & ThreeFold Grid Concepts: [definitions](definitions.md) and [concepts](https://wiki.threefold.io)
-
+See the following link for used Definitions: [definitions](definitions.md).
 
 ## Disclaimer
 

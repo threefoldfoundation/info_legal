@@ -1,0 +1,1 @@
+> Important note: TFTs are not an investment instrument, TFTs are used to buy and sell IT capacity.

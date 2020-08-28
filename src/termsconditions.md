@@ -45,7 +45,3 @@ No amendment modifying, adding to or omitting from, or terminating this Agreemen
 
 The nullity of one of the provisions of this Agreement shall have no bearing on the validity of the other provision of this Agreement.In such case the Parties to this Agreement shall in good faith negotiate on the provisions of this Agreement so that the same economic balance between the rights and obligations of the Parties to this Agreement are safeguarded to the same extent as if the invalid provision had been valid.
 
-### history
-
-original info was cloned to https://docs.grid.tf/threefold/info/src/branch/master/legal/termsconditions.md
-and copied back here because there was a broken link

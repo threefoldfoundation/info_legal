@@ -91,6 +91,8 @@ There are a number of different types of cookies, however, our websites use:
 
 * No Advertising - Our companies use these cookies to collect information about your visit to our website, the content you viewed, the links you followed and information about your browser, device, and your IP address. However, we will not share this data with third parties for advertising purposes. 
 
+* Analytics cookies - Our companies use these to monitor how users reached the Site, and how they interact with and move around once on the Site. These cookies let us know what features on the Site are working the best and what features on the Site can be improved.
+
 ### How to manage cookies 
 
 You can set your browser to not accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result. 

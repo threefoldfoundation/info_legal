@@ -16,7 +16,7 @@ Each Farmer is free to determine the terms and conditions of its offer of IT Cap
 
 When selling capacity, Farmers will charge the following amount of Tokens to the relevant User(s) on a monthly basis: 
 
-![farmer_tcs_sales_equation](farmer_tcs_sales_equation.png)
+![farmer_tcs_sales_equation](./img/farmer_tcs_sales_equation.png)
 
 *CU =**[ Compute Unit*s](https://docs.grid.tf/threefold/info/src/branch/master/concepts/cloud_units.md)* deployed*
 

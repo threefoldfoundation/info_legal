@@ -1,0 +1,11 @@
+- [Definitions](definitions)
+- [Disclaimer](disclaimer)
+- [farmer_terms_conditions](farmer_terms_conditions)
+- [websites_terms_conditions](websites_terms_conditions)
+- [privacypolicy](privacypolicy)
+- parts
+  - [tf_grid_testnet_disclaimer](tf_grid_testnet_disclaimer)
+  - [tft_not_investment](tft_not_investment)
+  - [tft_not_speculative_note](tft_not_speculative_note)
+- old???
+  - [termsconditions](termsconditions)

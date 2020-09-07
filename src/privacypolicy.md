@@ -1,9 +1,8 @@
 # Privacy Policy
 
-*This privacy policy will explain how ThreeFold Movement ("companies", “we”, or “us”) uses the personal data we collect from you when you use any of the following websites:*
+*This privacy policy will explain how ThreeFold Movement ("companies", “we”, or “us”) uses the personal data we collect from you when you use any of our:*
 
-[FreeFlow Nation](www.freeflownation.com), [ACI](https://www.consciousinternet.org/), [TF Grid](www.grid.tf), [TF Tech](www.threefold.tech), [Incubaid](www.incubaid.com), [Inid](www.inid.io), [NBH-digital](www.nbh-digital.com) , [3bot](www.3bot.org), [Harvested](www.harvested.org),[Veda](www.veda-masters.com), [Veda-Egypt](www.veda-egypt.com), [Veda-Retreats](www.veda-retreats.com), [GoldFlow](www.goldflow.io), [EuroFlow](www.euroflow.io)
-[FairCoffee](www.faircoffee.trade), [ThreeFold Foundation](www.threefold.io) and any other website as used by the ThreeFold Foundation.
+!!!include:websites
 
 ### What data do we collect? 
 

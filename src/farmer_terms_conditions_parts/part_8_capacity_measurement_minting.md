@@ -1,4 +1,4 @@
-### 8. CAPACITY MEASUREMENT AND MINTING (‘FARMING’)
+### 8. TFT Minting (Token Creation ‘FARMING of capacity’)
 
 #### 8.1 General Principle
 

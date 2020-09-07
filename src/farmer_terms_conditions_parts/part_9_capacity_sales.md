@@ -8,7 +8,7 @@ ThreeFold Tokens (TFTs) are used to buy or sell IT Capacity as delivered by the 
 
 In order to access the TF Directory and sell IT Capacity on the ThreeFold Grid, the TF Grid user or Solution Provider offering services on the TFGrid must deploy a virtual system administrator, called the "**3Bot**". This 3bot is used, amongst others, to sell and buy IT Capacity (raw storage and compute resources) on the ThreeFold Grid.
 
-The reservation and use of the Farmer’s IT Capacity by the User is effected through "Smart Contracts for IT", whereby each party to the IT Capacity transaction (i.e. the Farmer on one hand and the User on the other) determine their requirements (in terms of IT Capacity and pricing (expressed in TFTs)) through their respective 3Bot. When the Farmer’s offering matches the User’s requirements, their respective 3Bots will create and register a “Smart Contract for IT” between both parties using the TF Explorer. The Smart Contract for IT will then be executed automatically by the software code and the requested IT workload will be deployed.
+The reservation and use of the Farmer’s IT Capacity by the User is effected through "Smart Contracts for IT". The Smart Contract for IT will then be executed automatically by the software code and the requested IT workload will be deployed. The TF Explorer calculates the required TFT Token price and makes sure that the TF Farmer receives their cultivated tokens.
 
 #### 9.2 Cultivation Mechanism
 
@@ -17,13 +17,15 @@ IT capacity is expressed in compute & storage units.
 * CU = [Compute Units](https://wiki.threefold.io/#/cloud_units)
 * SU = [Storage Units](https://wiki.threefold.io/#/cloud_units)
 
+The pricing is expressed as follows:
 
 * CP = Compute Unit price - expressed in USD
 * SP = Storage Unit price - expressed in USD
 
 * T = Token price in USD at time of capacity reservation
 
-Certified Farmers are free to determine the pricing of their IT Capacity. DIY (Do It Yourself) farmers do not have this freedom, TF Foundation will at best intent define the price for capacity for DIY farmers, this might change in the future and will be communicated accordingly.
+Certified Farmers are free to determine the pricing of their IT Capacity. DIY (Do It Yourself) farmers have to rely on the TF Foundation to set the price of the CU and SU.
+TF Foundation will do this with all best intentions in mind. 
 
 The IT capacity is sold through the TF Explorer using the smart contract for IT concept. TF Explorer is like the marketplace for the IT capacity see http://explorer.grid.tf/
 
@@ -31,9 +33,9 @@ Each farmer needs to register their TFT wallet in the TF Explorer and the certif
 
 > Cultivation in TFT = (CU * CP + SU * SP) / T * 0.9
 
-Cultivation in TFT are the TFT (Tokens) the Farmer receives from the TF Explorer when capacity has been sold.
+Cultivation in TFT are the TFT (Tokens) the Farmer receives when capacity has been sold as result of provisioning the IT workload by means of the IT smart contract concept.
 
-90% of the proceeds (in TFT) of the capacity sold through the TF Explorer is send to the wallet of the Farmer, 10% is send to the TF Foundation Wallet, this is an automatic action.
+As a result of executing the IT smart contract, 90% of the proceeds (in TFT) of the capacity sold is send to the wallet of the Farmer, 10% is send to the TF Foundation Wallet, this is an automatic action.
 
 #### 9.3 TF Foundation Fee and License Fees TFTech
 

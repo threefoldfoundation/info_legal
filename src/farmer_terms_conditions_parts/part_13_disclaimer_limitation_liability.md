@@ -1,4 +1,4 @@
-13. DISCLAIMER AND LIMITATION OF LIABILITY
+### 13. DISCLAIMER AND LIMITATION OF LIABILITY
 
 The Farmer hereby acknowledges the fact that he/she has been advised that TFTs may qualify as a security and that the offers and sales of TFTs have not been registered under any country’s securities laws and, therefore, cannot be resold except in compliance with the applicable country’s laws. 
 

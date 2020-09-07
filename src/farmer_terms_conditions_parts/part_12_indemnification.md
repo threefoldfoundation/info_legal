@@ -1,4 +1,4 @@
-12. INDEMNIFICATION
+### 12. INDEMNIFICATION
 
 To the fullest extent permitted by applicable law, you will defend, indemnify and hold harmless Company and our respective past, present, and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (the "**Indemnified Parties**") from and against all claims, damages, costs and expenses (including attorneys’ fees) that arise from or relate to: (i) your use of the Software; (ii) your participation in the ThreeFold Grid; (iii) any Feedback you provide; or (iv) your breach of this Agreement.
 

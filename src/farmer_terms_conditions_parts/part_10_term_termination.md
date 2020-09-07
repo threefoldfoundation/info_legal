@@ -1,4 +1,4 @@
-10. TERM AND TERMINATION
+### 10. TERM AND TERMINATION
 
 This Agreement shall be effective as of the date that you take the earliest of the following actions: your acceptance of this Agreement, either by clicking to signify acceptance, or by taking any one or more of the following actions: downloading, installing, running and/or using the Software. It will continue until terminated per the terms below.
 

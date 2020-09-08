@@ -1,4 +1,4 @@
-# Threefold Grid Demo, 3Bot, and Testnet Disclaimer
+# Threefold Grid Demo, 3Bot Disclaimer
 
 ## DISCLAIMER
 

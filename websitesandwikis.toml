@@ -17,3 +17,15 @@ branch = "master"
 branchswitch = false
 srcdir = "src"
 environment = ""
+
+
+[[wiki]]
+name = "tftech"
+title = "TFTech"
+url = "github.com/threefoldtech/info_tftech"
+path = ""
+autocommit = false
+branch = "master"
+branchswitch = false
+srcdir = "src"
+environment = ""

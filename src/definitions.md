@@ -245,3 +245,64 @@ The TF Wallet works together with Stellar and is nothing but a javascript UI.
 TF Wallet is part of the 3botconnect app on mobile.
 
 
+# Sales Related Definitions
+
+### “Acceptance” 
+
+means that any Deliverable has successfully completed the Acceptance process set forth in Section 4. Such Acceptance may be either explicit or implicit, i.e. in the absence of an explicit Rejection.
+
+### “Acceptance Period”
+
+ means fifteen (15) days as from the Delivery Date, unless otherwise agreed to in the Sales Order or as provided under statutory law.
+
+### “Customer” 
+
+means you or the customer entity identified in the Sales Order, as the case may be.
+
+### “Deliverables” 
+
+means the Hardware, Software, Services (if any), or any deliverable specified in a Sales Order. 
+
+### “Delivery” 
+
+means the act of making the Deliverables available for reception by the Customer in accordance with Section 4.1.
+
+### “Delivery Date” 
+
+means the ultimate date on which the Delivery may take place, as determined in the Sales Order.
+
+### “Documentation” 
+
+means all manuals, instructions and other documents (whether in hard copy, soft copy or web-based form) relating to, or necessary for, the use, operation or maintenance of the Deliverables, together with all enhancements, corrections, modifications and amendments to such documents that are furnished to Customer under this Agreement. 
+
+### “Effective Date” 
+
+means the date when the Agreement starts to operate, corresponding to the issuance date of the Sales Order.
+
+### “Hardware” 
+
+means any hardware to be provided by Company as specified in a Sales Order or Specific Agreement. 
+
+### “Party” 
+
+means any party to this Agreement; 
+
+### “Rejection” 
+
+means the explicit rejection of Deliverables by Customer, provided that the following cumulative conditions have all been completed:
+the Rejection has been notified by Customer to Company within the Acceptance Period (i.e. at the latest on the last day of the Acceptance Period);
+Customer has returned to Company all rejected Deliverables immediately after the Rejection notice; 
+Any rejection that does not meet both aforementioned cumulative conditions shall not qualify as a Rejection and shall be deemed an implicit Acceptance.
+
+### “Sales Order”
+
+means any Sales Order generated electronically by Company as detailed in Section 2,  including the details specified by Customer in the checkout of the Company website, or any document that the Parties mutually agree upon as the vehicle for procuring Hardware, Software and/or Services pursuant to this Agreement.
+
+### “Services” 
+
+means any services to be provided by Company to Customer as stipulated in the Sales Order. 
+
+### “Software”
+
+means the open source software connecting the Hardware to the ThreeFold network, all in machine readable, object code form, together with all enhancements, modifications, corrections and amendments thereto. 
+“Specifications” means the technical requirements for, and performance standards of, the Deliverables as set forth in the Sales Order or Documentation provided to Customer. 

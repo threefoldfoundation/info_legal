@@ -1,3 +1,4 @@
+
  **TERMS OF USE**
 
  **Last updated September 13, 2019**

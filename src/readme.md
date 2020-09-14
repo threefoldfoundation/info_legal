@@ -3,7 +3,7 @@
 - [Definitions](definitions.md)
 - [Disclaimer](disclaimer.md)
 - [Privacy Policy](privacypolicy.md)
-- [Terms & Conditions Websites](websites_terms_conditions.md)
+- [Terms & Conditions Websites](terms_conditions_websites.md)
 - [Terms & Conditions Farmers](farmer_terms_conditions.md)
 
 Our single source of truth for our legal docs is on https://github.com/threefoldfoundation/legal/tree/master/src

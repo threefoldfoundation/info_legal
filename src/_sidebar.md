@@ -1,11 +1,8 @@
 - [Definitions](definitions)
 - [Disclaimer](disclaimer)
 - [farmer_terms_conditions](farmer_terms_conditions)
-- [websites_terms_conditions](websites_terms_conditions)
+- [terms_conditions_websites](terms_conditions_websites)
 - [privacypolicy](privacypolicy)
-- parts
-  - [tf_grid_testnet_disclaimer](tf_grid_testnet_disclaimer)
-  - [tft_not_investment](tft_not_investment)
-  - [tft_not_speculative_note](tft_not_speculative_note)
-- old???
-  - [termsconditions](termsconditions)
+- TFTECH
+  - [T&C Farming Solution](terms_conditions_farmingsolution.md)
+  - [T&C Sales](terms_conditions_sales.md)

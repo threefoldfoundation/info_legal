@@ -14,11 +14,12 @@ See https://github.com/threefoldfoundation
 
 ## ThreeFold Foundation (TFF) or (ThreeFold FZC)
 
-The ThreeFold Foundation is not ThreeFold — rather, it is a participant in the movement to bring the world a truly peer-to-peer internet. We acknowledge and support the many people and organizations around the world who bring crucial support to the growth and adoption of the ThreeFold Grid.
+The ThreeFold Foundation (ThreeFold FZC) is a participant in the bigger ThreeFold movement, the purpose of the movement is to bring the world a truly peer-to-peer internet. 
+We acknowledge and support the many people and organizations around the world who bring crucial support to the growth and adoption of the ThreeFold Grid.
 
-A non for profit organization who contribute to the ThreeFold concept. 
+ThreeFold FZC, is a non for profit organization who contribute to the ThreeFold concept. 
 
-The Foundation is a promotion and coordination organization executed by ThreeFold FZC in Dubai. ThreeFold FZC HAS REGISTERED OFFICE AT Q1-07-038/B SHARJAH AIRPORT FREEZONE - PO BOX 514608 SHARJAH, UNITED ARAB EMIRATES, AND LICENSE REGISTRATION NUMBER 19121.
+ThreeFold FZC is a promotion and coordination organization executed by ThreeFold FZC in Dubai. ThreeFold FZC HAS REGISTERED OFFICE AT Q1-07-038/B SHARJAH AIRPORT FREEZONE - PO BOX 514608 SHARJAH, UNITED ARAB EMIRATES, AND LICENSE REGISTRATION NUMBER 19121.
 
 >  Work is ongoing to make the Foundation a global distributed concept with probably more than 1 legal entity. 
 

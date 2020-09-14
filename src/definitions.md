@@ -12,15 +12,21 @@ A group of volunteers and the ThreeFold Foundation maintain these repositories.
 See https://github.com/threefoldfoundation
 
 
-## ThreeFold Foundation (TFF)
+## ThreeFold Foundation (TFF) or (ThreeFold FZC)
 
 The ThreeFold Foundation is not ThreeFold — rather, it is a participant in the movement to bring the world a truly peer-to-peer internet. We acknowledge and support the many people and organizations around the world who bring crucial support to the growth and adoption of the ThreeFold Grid.
 
 A non for profit organization who contribute to the ThreeFold concept. 
 
-The Foundation is a promotion and coordination organization executed by ThreeFold FZC in Dubai.
+The Foundation is a promotion and coordination organization executed by ThreeFold FZC in Dubai. ThreeFold FZC HAS REGISTERED OFFICE AT Q1-07-038/B SHARJAH AIRPORT FREEZONE - PO BOX 514608 SHARJAH, UNITED ARAB EMIRATES, AND LICENSE REGISTRATION NUMBER 19121.
 
 >  Work is ongoing to make the Foundation a global distributed concept with probably more than 1 legal entity. 
+
+## ThreeFold Tech (TFTech, TFTECH)
+
+TF TECH NV, a Belgian limited liability company, having its registered office at Antwerpse Steenweg 19, B-9080 Lochristi, Belgium, registered with the Belgian Crossroads Bank of Enterprises under company number 0712.845.674 (RLP Gent, district Gent)
+
+TF Tech is a software tech company and is a major contributor to the software as used on the TFGrid.
 
 ## Non For Profit
 
@@ -296,7 +302,7 @@ Any rejection that does not meet both aforementioned cumulative conditions shall
 
 ### “Sales Order”
 
-means any Sales Order generated electronically by Company as detailed in Section 2,  including the details specified by Customer in the checkout of the Company website, or any document that the Parties mutually agree upon as the vehicle for procuring Hardware, Software and/or Services pursuant to this Agreement.
+means any Sales Order generated electronically by Company to allow the Customer to order,  including the details specified by Customer in the checkout of the Company website, or any document that the Parties mutually agree upon as the vehicle for procuring Hardware, Software and/or Services pursuant to this Agreement.
 
 ### “Services” 
 
@@ -305,4 +311,8 @@ means any services to be provided by Company to Customer as stipulated in the Sa
 ### “Software”
 
 means the open source software connecting the Hardware to the ThreeFold network, all in machine readable, object code form, together with all enhancements, modifications, corrections and amendments thereto. 
-“Specifications” means the technical requirements for, and performance standards of, the Deliverables as set forth in the Sales Order or Documentation provided to Customer. 
+
+### “Specifications” 
+
+means the technical requirements for, and performance standards of, the Deliverables as set forth in the Sales Order or Documentation provided to Customer. 
+

@@ -2,6 +2,7 @@
 - [Disclaimer](disclaimer)
 - [farmer_terms_conditions](farmer_terms_conditions)
 - [terms_conditions_websites](terms_conditions_websites)
+- [terms_conditions_griduser](terms_conditions_griduser)
 - [privacypolicy](privacypolicy)
 - TFTECH
   - [T&C Farming Solution](terms_conditions_farmingsolution.md)

@@ -1,0 +1,1 @@
+These Terms and Conditions (the "**Agreement**") constitute a legal agreement between you (“**user**," “**you**", or “**yours**”) and Threefold FZC and/or TFTech  (“**Threefold**”, “**Company**,” “**us**,” “**we**” or “**our**”)

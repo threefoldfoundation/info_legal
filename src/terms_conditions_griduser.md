@@ -1,6 +1,7 @@
 **USER TERMS AND CONDITIONS**
 
-These User Terms and Conditions (the "**Agreement**") constitute a legal agreement between you (“**user**," “**you**", or “**yours**”) and Threefold FZC, with registered office at Q1-07-038/b Sharjah Airport Freezone - PO Box 514608 Sharjah, United Arab Emirates, and license registration number 19121 (“**Threefold**”, “**Company**,” “**us**,” “**we**” or “**our**”), governing your usage of the ThreeFold software and related products (the “**TF Products**”), including but not limited to:
+!!!include:parties_threefold
+, governing your usage of the ThreeFold software and related products (the “**TF Products**”), including but not limited to:
 
 * The ThreeFold software and technologies (the "**Software**"), including:
 

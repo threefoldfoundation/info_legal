@@ -27,7 +27,7 @@ The pricing is expressed as follows:
 Certified Farmers are free to determine the pricing of their IT Capacity. DIY (Do It Yourself) farmers have to rely on the TF Foundation to set the price of the CU and SU.
 TF Foundation will do this with all best intentions in mind. 
 
-The IT capacity is sold through the TF Explorer using the smart contract for IT concept. TF Explorer is like the marketplace for the IT capacity see http://explorer.grid.tf/
+The IT capacity is sold through the TF Explorer using the smart contract for IT concept. TF Explorer is the inventory of all IT capacity available for consumption on the Threefold Grid. See http://explorer.grid.tf/
 
 Each farmer needs to register their TFT wallet in the TF Explorer and the certified farmers can register the price for the CU/SU on the TF Exlorer as well by using their farming 3bot.
 

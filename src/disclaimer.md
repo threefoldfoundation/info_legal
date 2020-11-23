@@ -34,4 +34,4 @@ If and to the extend you have purchased or otherwise acquired tokens from ThreeF
 * No limitations for own intent. Nothing in this Agreement shall (or shall be deemed to, or construed to) exclude or restrict any liability either Party may incur as a result of fraud, willful intent or for any death or personal injury resulting from its gross negligence or that of its employees, agents or subcontractors.
 
 
-*This document is hosted on https://github.com/threefoldfoundation/info_threefold/tree/development/src/disclaimers*
+*This document is hosted on https://github.com/threefoldfoundation/legal/blob/master/src/*

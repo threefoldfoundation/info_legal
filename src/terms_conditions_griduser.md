@@ -13,7 +13,7 @@
 
     * Any other related software components which are referenced in github under [https://github.com/threefoldtech](https://github.com/threefoldtech) and [https://github.com/threefoldfoundation](https://github.com/threefoldfoundation) 
 
-* Threefold applications (including the 3Bot Connect app);
+* Threefold applications (including the ThreeFold Connect app);
 * Threefold Tokens (TFTs);
 * The Threefold Marketplace; and 
 * The ThreeFold Grid and any related products.
@@ -43,9 +43,9 @@ By making available one or more computers, network or storage devices ("**3Nodes
 
 in accordance with the capabilities of the software installed on the 3Nodes;
 
-### 4. REGISTRATION TO THE 3BOT CONNECT APPLICATION
+### 4. REGISTRATION TO THE THREEFOLD CONNECT (FORMERLY 3BOT CONNECT) APPLICATION
 
-In order to access certain TF Products you will be required to install the 3Bot Connect application on your device and register your account in this 3Bot Connect application by creating a username and password. You agree to provide us with accurate, complete, and current registration information about yourself. It is your responsibility to ensure that your password remains confidential and secure. By registering, you agree that you are fully responsible for all activities that occur under your user name and password. We may assume that any communications we receive under your account have been made by you. If you are a billing owner, an administrator, or if you have confirmed in writing that you have the authority to make decisions on behalf of a User ("**3Bot Administrator**"), you represent and warrant that you are authorized to make decisions on behalf of the User and agree that ThreeFold is entitled to rely on your instructions.
+In order to access certain TF Products you will be required to install the ThreeFold Connect application on your device and register your account in this ThreeFold Connect application by creating a username and password. You agree to provide us with accurate, complete, and current registration information about yourself. It is your responsibility to ensure that your password remains confidential and secure. By registering, you agree that you are fully responsible for all activities that occur under your user name and password. We may assume that any communications we receive under your account have been made by you. If you are a billing owner, an administrator, or if you have confirmed in writing that you have the authority to make decisions on behalf of a User ("**3Bot Administrator**"), you represent and warrant that you are authorized to make decisions on behalf of the User and agree that ThreeFold is entitled to rely on your instructions.
 
 You are responsible for notifying us at legal@threefold.io if you become aware of any unauthorized use of or access to your 3Bot account. You understand and agree that we may require you to provide information that may be used to confirm your identity and help ensure the security of your account. ThreeFold will not be liable for any loss, damages, liability, expenses or attorneys’ fees that you may incur as a result of someone else using your password or account, either with or without your knowledge and/or authorization, and regardless of whether you have or have not advised us of such unauthorized use. You will be liable for losses, damages, liability, expenses and attorneys’ fees incurred by ThreeFold or a third party due to someone else using your account. In the event that the 3Bot Administrator or User loses access to an account or otherwise requests information about an account, ThreeFold reserves the right to request from the 3Bot Administrator or User any verification it deems necessary before restoring access to or providing information about such account in its sole discretion.
 
@@ -66,7 +66,7 @@ Two versions of ThreeFold Tokens have been issued:
 
 While the original TFTv1 kept all same properties and benefits, they are now called TFTA on the Stellar blockchain. Since the creation of the TFTv2, TFTA’s have become ThreeFolds voluntary staking pool of Tokens, which means these TFTs can only be used to buy IT Capacity and cannot be traded otherwise. However any User can convert TFTA’s into TFTs (i.e. TFTv2) by implementing a few simple migration steps which can be found [here](https://wiki.threefold.io/#/tfta_to_tft). Once converted, any TFT’s can be traded or transferred by various means as the User deems fit, as further explain [here](https://wiki.threefold.io/#/how_to_buy_and_sell).
 
-The TF Foundation has chosen to use the Stellar blockchain platform for storing and managing the TFT. You can use any wallet that supports Stellar, including but not limited to the wallet included in the 3Bot Connect app. 
+The TF Foundation has chosen to use the Stellar blockchain platform for storing and managing the TFT. You can use any wallet that supports Stellar, including but not limited to the wallet included in the ThreeFold Connect app. 
 
 If it would be in the benefit of our community or technology, TF Foundation could make the choice to migrate the TFT to a newly chosen blockchain platform. If that would be the case TF Foundation will make sure that all features are the same as on current blockchain, this is just a technology choice like how a web site would choose its database.
 
@@ -109,7 +109,7 @@ You will use the TF Products in strict accordance with the terms of this Agreeme
 
 The IT Capacity that is made available on the ThreeFold Grid can be used by any Users to create, post, upload, share or store Content, such as text, graphics, photos, videos, sound, data or other information and materials submitted or provided by Users.
 
-We have no access to, nor do we control, own, or endorse any Content that you transmit, store or process via the ThreeFold Grid or any other TF Products. You are solely responsible for any Content stored using the ThreeFold Grid or any TF Products, and for any data that you have entered using the 3Bot Connect application. You hereby represent and warrant that (1) you own all intellectual property rights (or have obtained all necessary permissions) to provide your Content and other data; (2) such Content and other data will not violate any agreements or confidentiality obligations; and (3) such Content and data will not violate, infringe or misappropriate any intellectual property right or other proprietary rights of any person or third party.
+We have no access to, nor do we control, own, or endorse any Content that you transmit, store or process via the ThreeFold Grid or any other TF Products. You are solely responsible for any Content stored using the ThreeFold Grid or any TF Products, and for any data that you have entered using the ThreeFold Connect application. You hereby represent and warrant that (1) you own all intellectual property rights (or have obtained all necessary permissions) to provide your Content and other data; (2) such Content and other data will not violate any agreements or confidentiality obligations; and (3) such Content and data will not violate, infringe or misappropriate any intellectual property right or other proprietary rights of any person or third party.
 
 You will not create, post, share or store Content or other data that:
 
@@ -172,7 +172,7 @@ The User understands that the use of TFTs, the other TF Products and/or the Thre
 
 Except as explicitly set forth herein, Company makes no representations that the TF Products are appropriate for use in any jurisdictions. Users engaging with the TF Products from any jurisdictions do so at their own risk and are responsible for compliance with local laws.
 
-The User understands and expressly accepts that the TFTs, 3Bot Connect App, the ThreeFold Grid and other TF Products were created and made available to the User at its sole risk on an "AS IS" and “UNDER DEVELOPMENT” basis. 
+The User understands and expressly accepts that the TFTs, ThreeFold Connect App, the ThreeFold Grid and other TF Products were created and made available to the User at its sole risk on an "AS IS" and “UNDER DEVELOPMENT” basis. 
 
 COMPANY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS AND IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. COMPANY MAKES NO WARRANTY THAT THE TF PRODUCTS OR DOCUMENTATION WILL BE UNINTERRUPTED, ACCURATE, COMPLETE, RELIABLE, CURRENT, ERROR-FREE, VIRUS FREE, OR FREE OF MALICIOUS CODE OR HARMFUL COMPONENTS, OR THAT DEFECTS WILL BE CORRECTED. COMPANY DOES NOT CONTROL, ENDORSE, SPONSOR, OR ADOPT ANY CONTENT AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND REGARDING THE CONTENT STORED ON THE THREEFOLD GRID. COMPANY HAS NO OBLIGATION TO SCREEN, MONITOR, OR EDIT CONTENT AND IS NOT RESPONSIBLE OR LIABLE FOR ANY CONTENT. YOU ACKNOWLEDGE AND AGREE THAT COMPANY HAS NO INDEMNITY, SUPPORT, SERVICE LEVEL, OR OTHER OBLIGATIONS HEREUNDER.
 
@@ -200,7 +200,7 @@ The TF Products may be subject to export laws and regulations of the European Un
 
 1. This Agreement sets forth the complete and final agreement of the parties concerning the subject matter hereof, and supersedes, replaces all prior agreements, written and oral, between them concerning the subject matter hereof. If a term of this Agreement to be invalid or unenforceable, the remaining provisions will continue in full force and effect. A party’s consent to, or waiver of, enforcement of this Agreement on one occasion will not be deemed a waiver of any other provision or such provision on any other occasion.
 
-2. We reserve the right to change this Agreement from time to time in our sole discretion. If we make material changes to this Agreement, we will provide notice of such changes, such as by posting the revised User Terms and Conditions on our websites or in the 3Bot Connect application. By continuing to access or use the TF Products or otherwise participate in the ThreeFold Grid after the posted effective date of modifications to this Agreement, you agree to be bound by the revised version of this Agreement. If you do not agree to the modified Agreement, you must stop using and interacting with the TF Products.
+2. We reserve the right to change this Agreement from time to time in our sole discretion. If we make material changes to this Agreement, we will provide notice of such changes, such as by posting the revised User Terms and Conditions on our websites or in the ThreeFold Connect application. By continuing to access or use the TF Products or otherwise participate in the ThreeFold Grid after the posted effective date of modifications to this Agreement, you agree to be bound by the revised version of this Agreement. If you do not agree to the modified Agreement, you must stop using and interacting with the TF Products.
 
 3. The parties are independent contractors. No agency, partnership, franchise, joint venture, or employment relationship is intended or created by this Agreement. Neither party has the power or authority to create or assume any obligation, or make any representations or warranties, on behalf of the other party.
 

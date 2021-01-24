@@ -249,7 +249,7 @@ The software company who created an original part of the software enabling the T
 
 A software application which allows anyone to consult how many TFTs they own and to make transfers of TFTs to other parties.
 The TF Wallet works together with Stellar and is nothing but a javascript UI.
-TF Wallet is part of the 3botconnect app on mobile.
+TF Wallet is part of the ThreeFold Connect app on mobile.
 
 
 # Sales Related Definitions

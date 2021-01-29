@@ -102,7 +102,7 @@ Our website contains links to other websites. Our privacy policy applies only to
 
 ### Changes to our privacy policy 
 
-We keep our privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 16 May 2019. 
+We keep our privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 29 Jan 2021. 
 
 ### How to contact us 
 

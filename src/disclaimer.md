@@ -6,10 +6,11 @@ Your use of the TFGrid and/or TFTs, as well as the IT capacity made available fr
 
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW THE SERVICES ARE PROVIDED ON AN "AS IS" AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND, AND THREEFOLD EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES AS TO THE SERVICES, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT; (B) THREEFOLD DOES NOT REPRESENT OR WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE, MEET YOUR REQUIREMENTS, OR THAT DEFECTS IN THE SERVICES WILL BE CORRECTED; AND (C) THREEFOLD CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE SERVICES, OR THE SERVERS USED TO PROVIDE SUCH SERVICES, ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 
-TFTs are NOT issued by any company or organization and are only registered in a public BlockChain when a TF Farmer connects IT capacity to the TFGrid by using the ThreeFold software. 
-
 By using the Services, you acknowledge that:
 
+* you have access to all relevant and required information to do with the tokens and the grid on https://wiki.threefold.io
+  * e.g. way how tokens are created/minted on: https://wiki.threefold.io/#/token_creation
+  * all this information is being provided on best effort basis and does not imply any promise or guarantee
 * you have sufficient knowledge and experience in financial and business matters and are capable of evaluating the merits and risks of using or acquiring TFTs, and that you are able to bear the economic risk of such acquisition for an indefinite period of time.
 * the Services (including the TFTs) involve risks, all of which you fully and completely assume, including, but not limited to, the risk relating to the possibility of limited or absent liquidity for the TFTs on the secondary markets (including the relevant online exchanges), the risk relating to price fluctuations of the TFTs on such secondary markets (including the relevant online exchanges), etc. 
 * the Services (including the TFTs) have or will be created and delivered to you at your sole risk on an "AS IS" basis. 
@@ -33,4 +34,4 @@ If and to the extend you have purchased or otherwise acquired tokens from ThreeF
 * No limitations for own intent. Nothing in this Agreement shall (or shall be deemed to, or construed to) exclude or restrict any liability either Party may incur as a result of fraud, willful intent or for any death or personal injury resulting from its gross negligence or that of its employees, agents or subcontractors.
 
 
-*This document is hosted on https://github.com/threefoldfoundation/info_threefold/tree/development/src/disclaimers*
+*This document is hosted on https://github.com/threefoldfoundation/legal/blob/master/src/*

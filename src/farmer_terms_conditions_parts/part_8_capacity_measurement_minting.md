@@ -8,7 +8,7 @@ Farmers who connect 3Nodes on an ongoing basis to the ThreeFold Grid by running 
 
 The details of farming (minting of TFT’s) are described on our [farming_logic wiki: https://wiki.threefold.io/#/faming_logic](https://wiki.threefold.io/#/farming_logic) and this location serves as master for the TFT minting process. The wiki is version controlled (on github), so all changes can be followed.All connected IT Capacity gets registered on the TF Chain, i.e. ThreeFolds blockchain software. Each month the TF Chain issues new TFTs and transfers them to Farmers in respect of each 3Node that remained connected to the ThreeFold Grid during the preceding month, using the following calculation in respect of each 3Node:
 
-![farmer_tcs_minting_equation](./img/farmer_tcs_minting_equation.png)
+![farmer_tcs_minting_equation](img/farmer_tcs_minting_equation.png)
 
 The concepts of CPR, CPR Price and Difficulty Level are determined in the aforementioned wiki  and are incorporated into this Agreement by reference.
 

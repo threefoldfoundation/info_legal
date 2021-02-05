@@ -4,11 +4,11 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 
 > BY USING THE TFGRID OR ANY OF THE THREEFOLD PROVIDED SOFTWARE OR SERVICES YOU ACCEPT FOLLOWING AGREEMENTS:
 
-- [X] [Disclaimer](disclaimer.md)
-- [X] [Definitions](definitions.md)
-- [X] [Privacy Policy](privacypolicy.md)
-- [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites.md)
-- [X] [Terms & Conditions TFGrid Users](terms_conditions_griduser.md)
+- [X] [Disclaimer](disclaimer)
+- [X] [Definitions](definitions)
+- [X] [Privacy Policy](privacypolicy)
+- [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites)
+- [X] [Terms & Conditions TFGrid Users](terms_conditions_griduser)
 - [X] [Terms & Conditions TFGrid Farmers](terms_conditions_farmer.md) : only relevant if you are a TFGrid Farmer
  
 

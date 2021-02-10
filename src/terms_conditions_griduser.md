@@ -18,7 +18,7 @@
 * The Threefold Marketplace; and 
 * The ThreeFold Grid and any related products.
 
-The terms of your interaction with the websites, social networks or online communication channels maintained by the Company (including but not limited to the posting or publishing of content, information or promotional materials) shall be governed by the ‘Terms of Service’ referred to on [www.threefold.io](www.threefold.io), which are incorporated herein by reference.
+The terms of your interaction with the websites, social networks or online communication channels maintained by the Company (including but not limited to the posting or publishing of content, information or promotional materials) shall be governed by the ‘Terms of Service’ referred to on [www.threefold.io](https://www.threefold.io), which are incorporated herein by reference.
 
 The IT Capacity services provided by Farmers on the ThreeFold Grid are governed by the present Agreement, but may be supplemented by additional terms agreed between the relevant Farmer and the User governing their delivery, access and use of the IT Capacity through the ThreeFold Grid. This supplementation shall not extend the liability of ThreeFold.
 

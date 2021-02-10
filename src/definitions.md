@@ -48,7 +48,7 @@ This means they need to find consensus amongst themselves before certain actions
 
 Today this is used by
 
-- 3 Councils see [threefold_councils](wiki:threefold_councils)
+- 3 Councils see [threefold_councils](https://wiki.threefold.io/#/threefold_councils)
 - consensus between developers or other contributors around e.g. validation of minting of TFT
 
 

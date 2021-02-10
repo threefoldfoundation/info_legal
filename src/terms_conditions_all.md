@@ -9,7 +9,7 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 - [X] [Privacy Policy](privacypolicy)
 - [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites)
 - [X] [Terms & Conditions TFGrid Users](terms_conditions_griduser)
-- [X] [Terms & Conditions TFGrid Farmers](terms_conditions_farmer.md) : only relevant if you are a TFGrid Farmer
+- [X] [Terms & Conditions TFGrid Farmers](terms_conditions_farmer) : only relevant if you are a TFGrid Farmer
  
 
 Our single source of truth for our legal docs is stored on [__Github__](https://github.com/threefoldfoundation/legal/tree/master/src)

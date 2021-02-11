@@ -1,6 +1,6 @@
 - [Definitions](definitions)
 - [Disclaimer](disclaimer)
-- [farmer_terms_conditions](farmer_terms_conditions)
+- [farmer_terms_conditions](terms_conditions_farmer)
 - [terms_conditions_websites](terms_conditions_websites)
 - [terms_conditions_griduser](terms_conditions_griduser)
 - [privacypolicy](privacypolicy)

@@ -5,7 +5,6 @@
 
 | def | description |
 | ---- | ---- |
-| [3bot](page__threefold__3bot_def.md) | NO TITLE |
 | [3node](page__threefold__3node.md) | 3Node |
 
 ## a
@@ -19,10 +18,9 @@
 
 | def | description |
 | ---- | ---- |
-| [chatsystem](page__threefold__chat.md) | Digital Twin Chat |
+| [chatsystem](page__threefold__chat.md) | Digital Twin |
 | [cloudcapacity](page__threefold__ic_internet_capacity.md) | IC = Internet Capacity |
 | [cloudunits](page__threefold__cloud_units.md) | Cloud Units |
-| [collabcircles](page__threefold__collab_circles.md) | Circles and Organization |
 | [crystaltwin](page__threefold__crystaltwin.md) | Crystal Twin |
 
 ## d
@@ -78,7 +76,7 @@
 
 | def | description |
 | ---- | ---- |
-| [notificationsystem](page__threefold__notification_system.md) | Notification System |
+| [notificationsystem](page__threefold__notification_system.md) | Digital Twin |
 
 ## p
 
@@ -91,7 +89,6 @@
 | [planetfs](page__threefold__threefold_fs.md) | ThreeFold Filesystem |
 | [planetnet](page__threefold__threefold_network.md) | Planetary Network = PAN |
 | [planetnetwork](page__threefold__threefold_network.md) | Planetary Network = PAN |
-| [planetoryfs](page__threefold__threefold_fs.md) | ThreeFold Filesystem |
 | [planetorynetwork](page__threefold__threefold_network.md) | Planetary Network = PAN |
 | [publisher](page__threefold__publisher.md) | Publishing System |
 | [publishertool](page__threefold__publisher.md) | Publishing System |
@@ -160,7 +157,7 @@
 
 | def | description |
 | ---- | ---- |
-| [wallet](page__threefold__wallet.md) | Wallet |
+| [wallet](page__threefold__wallet.md) | Digital Twin |
 
 ## z
 

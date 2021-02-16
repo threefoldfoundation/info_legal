@@ -1,4 +1,7 @@
 {
   "name": "legal",
-  "depends": []
+  "depends": [],
+  "sitereplace":[],
+  "wordreplace":[],
+  "filereplace":[]  
 }

@@ -6,11 +6,15 @@
 
 ### What data do we collect? 
 
-All websites using the ThreeFold Movement Privacy Policy do not collect any data on a personal level. All data being processed is anonymized. 
+All websites using the ThreeFold Movement Privacy Policy do not collect any data on a personal level by default. All data being processed is anonymized. When signing up for our newsletter we collect your: *email address*
 
 **How do we collect your data?**
 
+Browsing data:
 We automatically collect data and process data when you use or view our website via your browser's cookies.
+
+Newsletter Signups:
+Collected only with your permission through our sign-up form that uses a double opt-in mechanism for you to explicitly accept.
 
 ### How will we use your data? 
 
@@ -18,7 +22,9 @@ We use this information to monitor and analyze your use of our website and for t
 
 If you agree, our companies will share your data with the following partner companies so that they may offer you or us their products and services: 
 
-* Google Analytics: offers us services relating to monitoring and measuring website traffic and access, creating user navigation reports, etc. All information processed here is anonymized. 
+* Matomo: offers us services relating to monitoring and measuring website traffic and access, creating user navigation reports, etc. All information processed here is anonymized. We run this service within our own environments. The data being processed does not leave our servers and is not shared with any thrid parties.
+
+* Mailerlite: offers us services relating newsletter sending and monitoring.
 
 **We do not track individual IP's or any other personal data.**
 
@@ -26,12 +32,12 @@ The aforementioned processors operate independently from us and have their own p
 
 ### How do we store your data? 
 
-We do not export and/or store any data on any of the websites using this privacy policy.
-We only analyze the anonymized data in Google Analytics.
+We store the anonmyzed data in Matomo for us to research usage and improve user experience on our websites.
+We store email addresses in Mailerlite's system.
 
 ### Marketing 
 
-We will not use your information for any (re)marketing reasons, nor send you information about products and/or services of ours or any partner companies.
+We will not use your information for any (re)marketing reasons, nor send you information about products and/or services of ours or any partner companies unless you explicitly agreed to signing up for our newsletter.
 
 ### What are your data protection rights? 
 

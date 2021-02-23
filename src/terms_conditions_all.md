@@ -5,7 +5,7 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 > BY USING THE TFGRID OR ANY OF THE THREEFOLD PROVIDED SOFTWARE OR SERVICES YOU ACCEPT FOLLOWING AGREEMENTS:
 
 - [X] [Disclaimer](disclaimer)
-- [X] [Definitions](definitions)
+- [X] [Definitions](tftech:definitions)
 - [X] [Privacy Policy](privacypolicy)
 - [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites)
 - [X] [Terms & Conditions TFGrid Users](terms_conditions_griduser)
@@ -15,6 +15,4 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 Our single source of truth for our legal docs is stored on [__Github__](https://github.com/threefoldfoundation/legal/tree/master/src)
 
 > You can see the history of each file on github, useful to see the right version of the file in relation to the date when you signed a document or contract which linked into one of the above documents.
-
-
 

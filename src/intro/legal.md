@@ -19,4 +19,4 @@ Our single source of truth for our legal docs is on https://github.com/threefold
 
 
 
-Definitions see [definitions](definitions).
+Definitions see [definitions](tftech:definitions).

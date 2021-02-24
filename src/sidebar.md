@@ -5,5 +5,5 @@
 - [terms_conditions_griduser](terms_conditions_griduser)
 - [privacypolicy](privacypolicy)
 - TFTECH
-  - [T&C Farming Solution](terms_conditions_farmingsolution)
-  - [T&C Sales](terms_conditions_sales)
+  - [T&C Farming Solution](tftech:terms_conditions_farmingsolution)
+  - [T&C Sales](tftech:terms_conditions_sales)

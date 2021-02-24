@@ -1,4 +1,4 @@
-- [Definitions](tftech:definitions)
+- [Definitions](definitions_legal)
 - [Disclaimer](disclaimer)
 - [farmer_terms_conditions](terms_conditions_farmer)
 - [terms_conditions_websites](terms_conditions_websites)

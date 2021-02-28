@@ -1,6 +1,6 @@
 ![legal](img/legal_header.jpg)
 
-- [Definitions](tftech:definitions)
+- [Definitions](definitions_legal)
 - [Disclaimer](disclaimer)
 - [Privacy Policy](privacypolicy)
 - [Terms & Conditions Websites](terms_conditions_websites)

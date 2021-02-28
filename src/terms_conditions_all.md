@@ -5,7 +5,7 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 > BY USING THE TFGRID OR ANY OF THE THREEFOLD PROVIDED SOFTWARE OR SERVICES YOU ACCEPT FOLLOWING AGREEMENTS:
 
 - [X] [Disclaimer](disclaimer)
-- [X] [Definitions](tftech:definitions)
+- [X] [Definitions](definitions_legal)
 - [X] [Privacy Policy](privacypolicy)
 - [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites)
 - [X] [Terms & Conditions TFGrid Users](terms_conditions_griduser)

@@ -1,35 +1,34 @@
-
-# THREEFOLD ECO SPELLING & USAGE 
+# THREEFOLD ECO SPELLING & USAGE
 
 _This glossary is to clarify spelling, capitalization, use of spaces, dashes, etc, when it comes to commonly used products or terminology in the ThreeFold ecosystem._
 
-
-# #
+#
 
 - **3Bot or 3bot.connect:** your virtual system administrator
 - **3Bot App:** your virtual system administrator
 - **3Bot Authentication:** your virtual system administrator
 
 or should we write?
+
 - **3Bot, 3bot.connect, 3Bot App or 3Bot Authentication:** your virtual system administrator
 
-- **3Node:** The ThreeFold Grid is formed by ThreeFold farmers - individuals or businesses who connect compute and storage hardware also known as servers and in our case 3 nodes
+- **3Node:** The ThreeFold_Grid is formed by ThreeFold farmers - individuals or businesses who connect compute and storage hardware also known as servers and in our case 3 nodes
 - **3Node ID:**
 - **3Bot SDK or 3SDK:**
-
 
 # A
 
 - **ADApps (not ADAPPS or ADAPPs):**
 - **Autonomous Internet or autonomous Internet (not internet):**
-- **Autonomous IT also:** 
+- **Autonomous IT also:**
 - **Autonomous Layer:**
   - links to Zero-People Technology
 - **Autonomous DAPPS:**
 - **App SDK:**
 
 # B
-- **BlockChain DB or BCDB:** 
+
+- **BlockChain DB or BCDB:**
 
 # C
 
@@ -41,8 +40,8 @@ or should we write?
 - **Core0 and CoreX:**
 - **Chatflow:**
 
-
 # D
+
 - Digital sovereignty / digital auto
 - Digital Sovereign Nation
 
@@ -51,9 +50,11 @@ or should we write?
 - Digital Me (?)
 
 # E
+
 - Experiences / Experiences Layer
 
 # F
+
 - Farmer
 - Farming
 - Flist
@@ -62,11 +63,9 @@ or should we write?
 
 - HRU: Hard Disc Drive Resource Unit
 
-
 # I
 
 - Itsyou.online
-
 
 # J
 
@@ -75,20 +74,24 @@ or should we write?
 - Jumpscale SDK
 
 # M
+
 - MRU (Memory Resource Unit)
 
 # N
+
 - NU (Network Unit)
 
 # P
+
 - Peer-to-peer (P2P)
 
 # R
+
 - Rivine Blockchain
 - Ressource Units (RU)
 
-
 # S
+
 - Self-driving or self-driving
 - Self-healing or self-healing
 - SLA (Service Level Agreement)
@@ -96,8 +99,8 @@ or should we write?
 - SRU (Solid State Disc Resource Unit)
 - Smart Contract For IT
 
-
 # T
+
 - TF Certified Capacity
 - TF Chain: all blockchain related technologies on top of TFGrid
   - ThreeFold Chain
@@ -109,22 +112,23 @@ or should we write?
 - ThreeFold Farmer or TF Farmer
 - TF Farmer 3Bot Plugin
 - ThreeFold Foundation or TFF or TF Foundation (ThreeFold FZC in Dubai)
-- TF Grid or Threefold Grid: the grid (network) of all computers providing capacity for the TFGrid
+- TF Grid or ThreeFold_Grid: the grid (network) of all computers providing capacity for the TFGrid
 - TF Grid Services
 - TF Hub
 - TF Labs
 - TF Web Gateway
 - TFTech: ThreeFold Tech NV (owns the IP of the technology, opensource for Grid) in Belgium
-- TFT : The ThreeFold Token
-  - TFToken, ThreeFold Token or ThreeFold Tokens (not TFTs)
-- ThreeFold Token Holders (when using “ThreeFold” in front) but token holders when not
+- TFT : The ThreeFold_Token
+  - TFToken, ThreeFold_Token or ThreeFold_Tokens (not TFTs)
+- ThreeFold_Token Holders (when using “ThreeFold” in front) but token holders when not
 - TFNode : runs Zero-OS
-  -  ThreeFold Node
+  - ThreeFold Node
 
 # W
-- WebGW: technology used is Zero-GW, bridge between internet and your workloads as running on top of TFGrid
-# Z
 
+- WebGW: technology used is Zero-GW, bridge between internet and your workloads as running on top of TFGrid
+
+# Z
 
 - Zero-Chain : combination of BCDB and Smart Contract For IT
 - Zero-Container
@@ -136,6 +140,3 @@ or should we write?
 - Zero-OS or ZOS (not Zero OS)
 - Zero-People : fact that self driving/healing IT is possible
 - Zero Robot
-
-
-

@@ -4,6 +4,6 @@
 - [terms_conditions_websites](terms_conditions_websites.md)
 - [terms_conditions_griduser](terms_conditions_griduser.md)
 - [privacypolicy](privacypolicy.md)
-- TFTECH
+- [TFTECH](TFTECH)
   - [T&C Farming Solution](terms_conditions_farmingsolution.md)
   - [T&C Sales](terms_conditions_sales.md)

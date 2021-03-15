@@ -111,7 +111,7 @@ or should we write?
 - ThreeFold Directory
 - ThreeFold Farmer or TF Farmer
 - TF Farmer 3Bot Plugin
-- ThreeFold Foundation or TFF or TF Foundation (ThreeFold FZC in Dubai)
+- ThreeFold Foundation or TFF or TF Foundation (ThreeFold_Dubai in Dubai)
 - TF Grid or ThreeFold_Grid: the grid (network) of all computers providing capacity for the TFGrid
 - TF Grid Services
 - TF Hub

@@ -11,14 +11,13 @@ A group of volunteers and the ThreeFold Foundation maintain these repositories.
 
 See https://github.com/threefoldfoundation
 
-## ThreeFold Foundation (TFF) or (ThreeFold FZC)
+## ThreeFold Foundation (TFF) 
 
-The ThreeFold Foundation (ThreeFold FZC) is a participant in the bigger ThreeFold movement, the purpose of the movement is to bring the world a truly peer-to-peer internet.
+The ThreeFold Foundation (ThreeFold_Dubai) is a participant in the bigger ThreeFold movement, the purpose of the movement is to bring the world a truly peer-to-peer internet.
+
 We acknowledge and support the many people and organizations around the world who bring crucial support to the growth and adoption of the ThreeFold_Grid.
 
-ThreeFold FZC, is a non for profit organization who contribute to the ThreeFold concept.
-
-ThreeFold FZC is a promotion and coordination organization executed by ThreeFold FZC in Dubai. ThreeFold FZC HAS REGISTERED OFFICE AT Q1-07-038/B SHARJAH AIRPORT FREEZONE - PO BOX 514608 SHARJAH, UNITED ARAB EMIRATES, AND LICENSE REGISTRATION NUMBER 19121.
+See [ThreeFold Dubai](threefold:threefold_dubai)
 
 > Work is ongoing to make the Foundation a global distributed concept with probably more than 1 legal entity.
 
@@ -27,6 +26,8 @@ ThreeFold FZC is a promotion and coordination organization executed by ThreeFold
 TF TECH NV, a Belgian limited liability company, having its registered office at Antwerpse Steenweg 19, B-9080 Lochristi, Belgium, registered with the Belgian Crossroads Bank of Enterprises under company number 0712.845.674 (RLP Gent, district Gent)
 
 TF Tech is a software tech company and is a major contributor to the software as used on the TFGrid.
+
+See [TFTech](threefold:tftech)
 
 ## Non For Profit
 
@@ -38,16 +39,13 @@ In the case of TFF following remarks might be useful
 - TFF has been funded by its original founders by means of loans or investment in kind or tokens, this money can be returned to the founders whenever cashflow allows (which is not the case yet).
 - TFF directors/shareholders do everything they can to only operate out of the best interests of the ThreeFold Project.
 - A project is under way to officialize the structure with strict governance e.g. a company called ThreeFold VZW has been created in Belgium with official governance around non for profit structure. This company is not used yet. Other alternatives are being researched at this moment (Aug 2020).
-- ThreeFold FZC has farmed tokens which can be used as gifts towards contributors or employees.
+- ThreeFold_Dubai has farmed tokens which can be used as gifts towards contributors or employees.
 
 ## Human Blockchain
 
-X nr of people use multi-signature function of the ThreeFold used blockchain technology to form a human blockchain.
-This means they need to find consensus amongst themselves before certain actions can be done.
+X nr of people use multi-signature function to form a human blockchain.
 
-Today this is used by
-
-- 3 Councils see [threefold_councils](https://wiki.threefold.io/#/threefold_councils)
+- 3 Councils see [threefold_councils](threefold:threefold_councils)
 - consensus between developers or other contributors around e.g. validation of minting of TFT
 
 ## ThreeFold_Grid (TFG)
@@ -122,7 +120,7 @@ Atomic Swaps were difficult to use, this got resolved by switching to Stellar bl
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
-More info see [on our wiki](https://wiki.threefold.io/#/cloud_units)
+More info see [on our wiki](threefold:cloud_units)
 
 ## ThreeFold Farming Pool (FP)
 
@@ -140,7 +138,7 @@ Farmers can cultivate both managed and/or unmanaged capacity.
 
 Farmers receive TFTs
 
-- as part of owning the TF Farming Pool (farming)
+- as part of owning the TF Farming Pool (tf_farming)
 - as part of selling capacity from the TF Farming Pool (cultivating)
 
 Most TF Farmers use a ThreeFold Cooperative to become active because it hugely simplifies the process and gives them often better pricing to purchase the Farming Pool as well as connecting the Farming Pool to the internet.

@@ -1,4 +1,4 @@
-# Concept
+# Definitions
 
 ## ThreeFold (TF)
 

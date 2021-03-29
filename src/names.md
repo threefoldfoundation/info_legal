@@ -1,6 +1,6 @@
 # THREEFOLD ECO SPELLING & USAGE
 
-_This glossary is to clarify spelling, capitalization, use of spaces, dashes, etc, when it comes to commonly used products or terminology in the ThreeFold ecosystem._
+_This glossary is to clarify spelling, capitalization, use of spaces, dashes, etc, when it comes to commonly used products or terminology in the ThreeFold Companies._
 
 #
 

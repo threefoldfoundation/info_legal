@@ -46,7 +46,7 @@ In the case of TFF following remarks might be useful
 X nr of people use multi-signature function to form a human blockchain.
 
 - 3 Councils see [threefold_councils](threefold:threefold_councils)
-- consensus between developers or other contributors around e.g. validation of minting of TFT
+- consensus between developers or other contributors around e.g. rules of validation of TFT Rewards for Farmers
 
 ## ThreeFold_Grid (TFG)
 

@@ -30,7 +30,7 @@ Subject to the payment of the applicable Services Fee (Monthly Fee), the Farmer 
 | Knowledge Base | Build out a knowledge base for farmers. Provide accessto the Company’s technical support databases regarding the function and operation of the ThreeFold Software; |
 | Upgrades | Receive automatic upgrades of the Software |
 | Market Place | ThreeFold will deliver a marketplace which will allow anyone to automatically buy capacity from the Farm capacity. |
-| Minting | TFT (Tokens) are minted automatically if the minimal SLA's were achieved (more info on info.threefold.io) |
+| Minting  = TFT Token Rewards| TFT (Tokens) are rewarded automatically if the minimal SLA's were achieved (more info on info.threefold.io) |
 | TF Directory | The 3Nodes of the Farm are listed in the ThreeFold Directory to allow every potential IT Capacity user to find this capacity. |
 
 The Company shall have no obligation to provide support with respect to any software, programs or hardware that was not developed by the Company or that was not purchased from the Company.

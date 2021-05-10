@@ -4,4 +4,4 @@ This Agreement shall be effective as of the date that you take the earliest of t
 
 Either party may terminate this Agreement immediately at any time without notice to the other party.
 
-In case of termination, the Farmer shall immediately cease using the Software. Any portion of Farmed or Cultivated ThreeFold Tokens that have not been transferred to the Farmer’s wallet on the date of termination will be irrevocably forfeited.
+In case of termination, the Farmer shall immediately cease using the Software. Any portion of Farmed or Cultivated ThreeFold_Tokens that have not been transferred to the Farmer’s wallet on the date of termination will be irrevocably forfeited.

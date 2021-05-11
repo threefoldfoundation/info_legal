@@ -208,15 +208,7 @@ The TF Products may be subject to export laws and regulations of the European Un
 
 5. Notices to Company made under this Agreement shall be made by email to legal@threefold.io AND in writing and delivered by registered mail (return receipt requested) or nationally-recognized overnight courier service to ThreeFold_Dubai, with registered office at Q1-07-038/B Sharjah Airport Freezone - PO Box 514608 Sharjah, United Arab Emirates, attention Legal Department. You agree to receive electronically all communications, agreements, documents, notices, and disclosures that we provide in connection with the Software and/or the ThreeFold_Grid ("**Communications**"). We may provide Communications in a variety of ways, including by e-mail, text, in-app notifications, or by posting them on our websites. You agree that all Communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
-### 18. GOVERNING LAW AND VENUE
-
-This Agreement will be governed by Luxembourg law. Any disputes shall be subject to the jurisdiction of the courts of Luxembourg, Grand Duchy of Luxembourg.
-
-User Terms and Conditions.md
-Displaying User Terms and Conditions.md.
-
-
-### 19. OPERATIONS OF THIRD-PARTY'S DIGITAL ASSET PROTOCOLS AND SERVICES 
+### 18. OPERATIONS OF THIRD-PARTY'S DIGITAL ASSET PROTOCOLS AND SERVICES 
 
 1. TF Tech NV (“TF Tech) does not provide (investment) advice regarding cryptocurrencies. You acknowledge that any information provided as part of TF Tech’s ThreeFold Connect App and/or ThreeFold Wallet (the “Platforms”) is not intended as a (personal) recommendation to buy, sell or hold (cryptocurrency) assets. All trading services offered on or through TF Tech’s Platforms are offered on the basis of "execution only". Your orders are executed automatically by our systems.
 
@@ -232,13 +224,13 @@ Displaying User Terms and Conditions.md.
 
 7. You acknowledge and accept the risks of operating changes to third-party’s digital asset protocols and agree that TF Tech NV is not responsible for such operating changes and not liable for any loss of value you may experience as a result of such changes in operating rules. You acknowledge and accept that TF Tech NV has sole discretion to determine its response to any operating change and that we have no responsibility to assist you with third-party’s digital assets, operational changes, unsupported currencies, or protocols.
 
-### 20. TAXES
+### 19. TAXES
 
 1. You shall be solely responsible for and shall pay (and shall indemnify TF Tech against any liability with respect to any failure by you to pay) all income taxes, value added taxes, goods and services taxes and any and all other taxes or sums due to national, federal, state or local governments (as the case may be) as a result of your use of the Platforms..
 
 2. You acknowledge that only you are responsible for the provision of information to tax authorities where such is required. Notwithstanding the above, upon request from a tax authority, TF Tech will provide information relating to you to the tax authorities.
 
-### 21. EXCLUSION OF LIABILITY
+### 20. EXCLUSION OF LIABILITY
 
 1. For the avoidance of doubt and notwithstanding the generality of the liability limitations set out in the applicable terms and conditions governing your use of the Platforms and/or other software or services provided by TF Tech, no liability shall exist in any manner whatsoever for:
   - differences in prices resulting from delayed processing of buy- or sell orders;
@@ -248,3 +240,10 @@ Displaying User Terms and Conditions.md.
   - any indirect loss (including consequential loss, loss of income and profit, loss of data and non-material loss).
 
 2. Except in case of intentional misconduct by TF Tech, the liability of TF Tech in respect of the Platforms shall in all cases be limited to the amount paid by you for the Platforms during the month prior to the moment the cause of the damage occurred.
+
+### 21. GOVERNING LAW AND VENUE
+
+This Agreement will be governed by Luxembourg law. Any disputes shall be subject to the jurisdiction of the courts of Luxembourg, Grand Duchy of Luxembourg.
+
+User Terms and Conditions.md
+Displaying User Terms and Conditions.md.

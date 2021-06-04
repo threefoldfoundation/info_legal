@@ -172,7 +172,7 @@ A Cooperative can supply any or all of following services.
   - monitoring of the infrastructure (hardware and software).
 - For Managed Capacity a Cooperative or TF Farmer will have to make an agreement with GIG.Tech to get the required software required to create a Managed Capacity Farming Pool (see below).
 
-## Do It Yourself Capacity (DIY, or Unmanaged Capacity)
+## Do It Yourself Capacity
 
 Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects). Farmers have no access to the TFNodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
 
@@ -187,7 +187,7 @@ SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity a
 
 ## Certified Capacity
 
-Capacity which received certification as organized by ThreeFold Tech.
+Capacity which received certification as organized by ThreeFold Tech. This is not available yet.
 
 ## Managed Capacity
 

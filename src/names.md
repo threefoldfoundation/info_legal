@@ -4,13 +4,13 @@ _This glossary is to clarify spelling, capitalization, use of spaces, dashes, et
 
 #
 
-- **3Bot or 3bot.connect:** your virtual system administrator
+- **3Bot or threefold_connect:** your virtual system administrator
 - **3Bot App:** your virtual system administrator
 - **3Bot Authentication:** your virtual system administrator
 
 or should we write?
 
-- **3Bot, 3bot.connect, 3Bot App or 3Bot Authentication:** your virtual system administrator
+- **3Bot, threefold_connect, 3Bot App or 3Bot Authentication:** your virtual system administrator
 
 - **3Node:** The ThreeFold_Grid is formed by ThreeFold farmers - individuals or businesses who connect compute and storage hardware also known as servers and in our case 3 nodes
 - **3Node ID:**

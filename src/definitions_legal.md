@@ -170,7 +170,6 @@ A Cooperative can supply any or all of following services.
   - all services related to connectivity to the internet (routing, denial of service, firewalling, ...)
   - rackspace & other datacenter services
   - monitoring of the infrastructure (hardware and software).
-- For Managed Capacity a Cooperative or TF Farmer will have to make an agreement with GIG.Tech to get the required software required to create a Managed Capacity Farming Pool (see below).
 
 ## Do It Yourself Capacity (DIY, or Unmanaged Capacity)
 
@@ -229,11 +228,8 @@ TFTech is the company who creates a lot of the opensource software as is used in
 
 TFTech business model is to sell licenses and certify TFGrid farmers if that is what they require.
 
-## GIG Tech
 
-The software company who created an original part of the software enabling the ThreeFold_Grid back in 2017, at this point as far as we know nothing of that software is used any longer. GIG Tech was selling additional services and software to allow any TF Farmer to create a Managed Capacity Farming Pool.
-
-# Varia
+# Miscellaneous
 
 ## TF Wallet
 

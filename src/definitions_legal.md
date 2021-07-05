@@ -186,7 +186,7 @@ SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity a
 
 ## Certified Capacity
 
-Capacity which received certification as organized by ThreeFold Tech. This is not available yet.
+Capacity which received certification as organized by ThreeFold Tech.
 
 ## Managed Capacity
 

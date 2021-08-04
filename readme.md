@@ -6,6 +6,6 @@ If you have any input or suggest missing parts feel free to list an issue [here]
 
 If you need any support please visit our website and use the chat widget in the bottom right of your screen. Our team will answer your questions as soon as possible.
 
-Now go explore our wiki's.
+Now go explore our wikis.
 
 

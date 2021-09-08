@@ -27,7 +27,7 @@ TF TECH NV, a Belgian limited liability company, having its registered office at
 
 TF Tech is a software tech company and is a major contributor to the software as used on the TFGrid.
 
-See [TFTech](threefold:tftech)
+See [TFTech](strategy:tftech)
 
 ## Non For Profit
 
@@ -120,7 +120,7 @@ Atomic Swaps were difficult to use, this got resolved by switching to Stellar bl
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
-More info see [on our wiki](threefold:cloud_units)
+More info see [on our wiki](tfgrid:cloud_units)
 
 ## ThreeFold Farming Pool (FP)
 

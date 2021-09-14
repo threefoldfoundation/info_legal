@@ -120,7 +120,7 @@ Atomic Swaps were difficult to use, this got resolved by switching to Stellar bl
 ## Cloud Units
 
 Units of IT capacity as sold from the TF Grid to Users.
-More info see [on our wiki](tfgrid:cloud_units)
+More info see [on our wiki](tfgrid:cloudunits)
 
 ## ThreeFold Farming Pool (FP)
 

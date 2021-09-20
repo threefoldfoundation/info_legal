@@ -8,7 +8,7 @@ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW THE SERVICES ARE PROVIDED ON A
 
 By using the Services, you acknowledge that:
 
-- you have access to all relevant and required information to do with the tokens and the grid on https://wiki.threefold.io
+- you have access to all relevant and required information to do with the tokens and the grid on https://library.threefold.me
   - e.g. way how tokens are created/minted on: token_creation
   - all this information is being provided on best effort basis and does not imply any promise or guarantee
 - you have sufficient knowledge and experience in financial and business matters and are capable of evaluating the merits and risks of using or acquiring TFTs, and that you are able to bear the economic risk of such acquisition for an indefinite period of time.

@@ -4,13 +4,13 @@ These terms and conditions (the “Agreement") constitute a legal agreement betw
 
 ## 0. DEFINITIONS AND RELATED TERMS
 
-The definitions which apply to this Agreement, unless stated otherwise herein, can be found at: https://legal.threefold.io/#/definitions, and are incorporated herein by reference.
+The definitions which apply to this Agreement, unless stated otherwise herein, can be found at: https://library.threefold.me/info/legal/#/legal__definitions_legal, and are incorporated herein by reference.
 
 ## 1. SERVICES
 
 ### 1.1 ThreeFold Certified Farming Solution.
 
-The different types of farming solution are described in [https://info.threefold.tech/#/farming_types](https://info.threefold.tech/#/farming_types).
+The different types of farming solution are described in [https://library.threefold.me/info/tfgrid/#/farming/farming_types](https://library.threefold.me/info/tfgrid/#/farming/farming_types).
 
 
 The Farmer will receive a digital online certificate from the Company signifying his accomplishment and qualifying the Farmer as a Certified Farmer (the “Certification Service”).
@@ -30,7 +30,7 @@ Subject to the payment of the applicable Services Fee (Monthly Fee), the Farmer 
 | Knowledge Base | Build out a knowledge base for farmers. Provide accessto the Company’s technical support databases regarding the function and operation of the ThreeFold Software; |
 | Upgrades | Receive automatic upgrades of the Software |
 | Market Place | ThreeFold will deliver a marketplace which will allow anyone to automatically buy capacity from the Farm capacity. |
-| Minting  = TFT Token Rewards| TFT (Tokens) are rewarded automatically if the minimal SLA's were achieved (more info on info.threefold.io) |
+| Minting  = TFT Token Rewards| TFT (Tokens) are rewarded automatically if the minimal SLA's were achieved (more info on https://library.threefold.me) |
 | TF Directory | The 3Nodes of the Farm are listed in the ThreeFold Directory to allow every potential IT Capacity user to find this capacity. |
 
 The Company shall have no obligation to provide support with respect to any software, programs or hardware that was not developed by the Company or that was not purchased from the Company.

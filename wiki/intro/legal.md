@@ -1,4 +1,4 @@
-![legal](img/legal_header.jpg)
+![legal](img/legal_header_.jpg)
 
 **TFGRID USER and/or FARMER TERMS AND CONDITIONS**
 

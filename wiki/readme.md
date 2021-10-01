@@ -1,10 +1,10 @@
 ![legal](img/legal_header_.jpg)
 
-- [Definitions](@definitions_legal)
-- [Disclaimer](@disclaimer)
-- [Privacy Policy](@privacypolicy)
-- [Terms & Conditions Websites](@terms_conditions_websites)
-- [Terms & Conditions Farmers](@terms_conditions_farmer)
+- [Definitions](definitions_legal)
+- [Disclaimer](disclaimer)
+- [Privacy Policy](privacypolicy)
+- [Terms & Conditions Websites](terms_conditions_websites)
+- [Terms & Conditions Farmers](terms_conditions_farmer)
 
 Our single source of truth for our legal docs is on https://github.com/threefoldfoundation/legal/tree/master/src
 

@@ -27,7 +27,7 @@ TF TECH NV, a Belgian limited liability company, having its registered office at
 
 TF Tech is a software tech company and is a major contributor to the software as used on the TFGrid.
 
-See [TFTech](threefold:tftech)
+See [TFTech](threefold_internal:tftech)
 
 ## Non For Profit
 

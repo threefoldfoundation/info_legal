@@ -237,7 +237,7 @@ Subject Line: Copyright Notification Mail
 
 “Policies” means this Agreement, the Acceptable Use Policy, Privacy Policy, any supplemental policies or addendums applicable to any Service as provided to you, and any other policy or terms referenced in or incorporated into this Agreement, each as may be updated by us from time to time.
 
-“Privacy Policy” means the privacy policy located at https://www.mazraa.io/privacy  (and any successor or related locations designated by us), as it may be updated by us from time to time.
+“Privacy Policy” means the privacy policy located at https://library.threefold.me/info/legal/#/legal__privacypolicy  (and any successor or related locations designated by us), as it may be updated by us from time to time.
 
 “Third-Party Content” means Content made available to you by any third party on the Site or in conjunction with the Services.
 

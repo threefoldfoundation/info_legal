@@ -1,15 +1,21 @@
 Terms of Use
+
 Updated: Oct 26th, 2021
 
 These Terms of Use (the “Terms,” “Terms of Use” or “Agreement”) contain the terms and conditions that govern your access to https://gettft.com/ (the “Site”) and use of the services provided through the Site by THREEFOLD DMCC, a company organized and existing under the laws of the United Arab Emirates with license number DMCC189608, with its head office located at Unit No: 3O-01-BA1120, Jewellery & Gemplex 3, Plot No: DMCC-PH2-J&GPlexS, Jewellery & Gemplex, Dubai, United Arab Emirates) (“us”, “we”, “our”) and is an agreement between us and you or the entity you represent (“you” or “your”). 
 
 Please read these Terms of Use carefully before using the Site or Services. By using the Site, or clicking a button or checkbox to accept or agree to these Terms where that option is made available or, completing an order form for Services, or, if earlier, using or otherwise accessing the Services (the “Effective Date”), you:
-1)	accept and agree to these Terms and any additional terms, rules and conditions of participation issued by THREEFOLD DMCC from time to time;
-2)	declare that you are older than 18 years and are lawfully able to enter into contracts; and
-3)	consent to the collection, use, disclosure and other handling of information as described in our Privacy Policy. 
+
+a.	accept and agree to these Terms and any additional terms, rules and conditions of participation issued by THREEFOLD DMCC from time to time;
+
+b.	declare that you are older than 18 years and are lawfully able to enter into contracts; and
+
+c.	consent to the collection, use, disclosure and other handling of information as described in our Privacy Policy. 
 
 If you do not agree to the Terms, then you may not access or use the Services. If you are entering into this Agreement for an entity, such as the company you work for, you represent to us that you have legal authority to bind that entity. 
-In addition, you represent to us that you and your financial institutions, or any party that owns or controls you or your financial institutions, are (1) not subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S. Department of Treasury and the Entity List of the U.S. Department of Commerce), the European Union or its Member States (e.g. any restrictions referred to on the EU Sanctions Maps website (https://sanctionsmap.eu/#/main), or other applicable government authority and (2) not located in any country to which the United States and/or the European Union has embargoed goods or has otherwise applied any sanctions.
+
+In addition, you represent to us that you and your financial institutions, or any party that owns or controls you or your financial institutions, are (1) not subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S.
+Department of Treasury and the Entity List of the U.S. Department of Commerce), the European Union or its Member States (e.g. any restrictions referred to on the EU Sanctions Maps website (https://sanctionsmap.eu/#/main), or other applicable government authority and (2) not located in any country to which the United States and/or the European Union has embargoed goods or has otherwise applied any sanctions.
 Finally, you are aware that the value of cryptocurrencies can fluctuate strongly and that no guarantee whatsoever can be issued for the value of cryptocurrencies at any time.
 
 The present Terms shall apply in combination with the Griduser Terms and Conditions (https://library.threefold.me/info/legal/#/legal__terms_conditions_griduser) which govern, among others, your use of the TFTs. In case of conflict between the present Terms and the Griduser Terms and Conditions, the present Terms shall prevail.
@@ -55,8 +61,10 @@ The present Terms shall apply in combination with the Griduser Terms and Conditi
 5. Temporary Suspension.
 
 5.1 Generally. We may suspend Your right to access or use any portion or all of the Services immediately upon notice to you if we determine:
-1)	your use of the Services (i) poses a security risk to the Services or any third party, (ii) could adversely impact our systems, the Services or the systems of any other user, (iii) could subject us, our affiliates, or any third party to liability, or (iv) could be fraudulent;
-2)	you are in breach of this Agreement;
+
+a.	your use of the Services (i) poses a security risk to the Services or any third party, (ii) could adversely impact our systems, the Services or the systems of any other user, (iii) could subject us, our affiliates, or any third party to liability, or (iv) could be fraudulent;
+
+b.	you are in breach of this Agreement;
 
 5.2 Effect of Suspension. If we suspend your right to access or use any portion or all of the Services, or in the event of cancellation of a transaction by THREEFOLD DMCC, the monies paid to THREEFOLD DMCC and/or the cryptocurrencies delivered to it will be returned after deduction of the costs incurred and the damages suffered by THREEFOLD DMCC as a result of any exchange rate fluctuations. THREEFOLD DMCC is under no circumstances liable for compensation toward you.
 
@@ -75,6 +83,9 @@ The present Terms shall apply in combination with the Griduser Terms and Conditi
 8. Miscellaneous
 
 8.1 Force Majeure. Neither party nor their respective affiliates will be liable for any delay or failure to perform any obligation under this Agreement where the delay or failure results from any cause beyond such party’s reasonable control, including but not limited to acts of God, utilities or other telecommunications failures, cyber attacks, earthquake, storms or other elements of nature, pandemics, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war.
+
 8.2  Severability. If any portion of this Agreement is held to be invalid or unenforceable, the remaining portions of this Agreement will remain in full force and effect. Any invalid or unenforceable portions will be interpreted to effect and intent of the original portion. If such construction is not possible, the invalid or unenforceable portion will be severed from this Agreement but the rest of the Agreement will remain in full force and effect.
+
 8.3 Applicable law. The laws of the United Arab Emirates applies to all transactions. 
+
 8.4 All disputes between parties, including those disputes that are only regarded to be a dispute by one of the parties, will be adjudicated by the court with competent jurisdiction of the United Arab Emirates.

@@ -1,1 +1,1 @@
-!!!include:legal
+!!!include:legal_home

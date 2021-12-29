@@ -1,9 +1,11 @@
 - [Definitions](@definitions_legal)
 - [Disclaimer](@disclaimer)
-- [farmer_terms_conditions](@terms_conditions_farmer)
+- [farmer_terms_conditions 2.x](@terms_conditions_farmer)
+- [farmer_terms_conditions 3.x](@terms_conditions_farmer)
 - [terms_conditions_websites](@terms_conditions_websites)
 - [terms_conditions_griduser](@terms_conditions_griduser)
 - [privacypolicy](@privacypolicy)
+--------------------
 - TFTECH
   - [T&C Farming Solution](@terms_conditions_farmingsolution)
   - [T&C Sales](@terms_conditions_sales)

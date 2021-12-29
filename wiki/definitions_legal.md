@@ -43,7 +43,7 @@ In the case of TFF following remarks might be useful
 
 ## ThreeFold_Grid (TFG)
 
-The ThreeFold_Grid is a new, global neutral and sustainable network of IT infrastructure. On this Grid, IT capacity is indexed registered on the TF Chain for easy discovery by purchasers.
+The ThreeFold_Grid is a new, global neutral and sustainable network of IT infrastructure. On this Grid, IT capacity is indexed registered on the TFChain for easy discovery by purchasers.
 
 This Internet capacity is produced and allocated locally - similar to the way electricity and other utilities are purchased today. This allows any digital service or application provider to host their services and applications in proximity to the end user leading to significantly greater performance, a lower price point and better margins. This is both more cost effective and green.
 
@@ -64,9 +64,9 @@ This Internet capacity is produced and allocated locally - similar to the way el
 
 ## ThreeFold_Token (TFT)
 
-The ThreeFold_Token is a digital Token which allows anyone to buy and sell IT Capacity on the TF Grid. This token only gets issued by the TF Chain if a TF Pool gets connected to the TF Grid.
+The ThreeFold_Token is a digital Token which allows anyone to buy and sell IT Capacity on the TF Grid. This token only gets issued by the TFChain if a TF Pool gets connected to the TF Grid.
 
-The TF Chain can issue a maximum of 4 billion tokens (gen 2).
+The TFChain can issue a maximum of 4 billion tokens (gen 2).
 
 ## TFChain
 
@@ -108,7 +108,7 @@ Atomic Swaps were difficult to use, this got resolved by switching to Stellar bl
 - is a compute/storage server which provides IT Capacity as source for the Cloud Units
 - a TFNode is part of a Farming Pool
 - 3Nodes are owned by TF Farmers.
-- The TFNode runs the TF Operating System and TF Chain (TFC).
+- The TFNode runs the TF Operating System and TFChain (TFC).
 
 ## Cloud Units
 
@@ -119,7 +119,7 @@ More info see [on our wiki](threefold:cloudunits)
 
 A Pool of storage & compute hardware which allows to provision IT Capacity.
 
-Each Farming Pool consists out of 3Nodes which run the TF Operating System and TF Blockchain Software (TF Chain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, iOT, docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold_Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility.
+Each Farming Pool consists out of 3Nodes which run the TF Operating System and TF Blockchain Software (TFChain) which allows anyone in the world to use this IT capacity to host their IT workloads (storage apps, archive capacity, web applications, artificial intelligence, iOT, docker containers, etc). To use this IT Capacity, through the TF Grid, people need to own ThreeFold_Tokens (“TFTs”) as they are the only possible mechanism to purchase this capacity on the TF Grid. As such, TFTs represent a true utility.
 
 ## ThreeFold Farmer
 
@@ -158,7 +158,7 @@ A Cooperative can supply any or all of following services.
   - how to go from TFT's to fiat currency like USD/EUR (and visa versa)
   - how to register pricing info on the TF Grid
   - how to integrate a fiat currency payment gateway into existing ecommerce website for the sales of TFT's or TF IT Capacity (e.g. integration with Stripe or other payment mechanism)
-  - how to consult/register information on the TF Chain
+  - how to consult/register information on the TFChain
 - Hosting Services
   - all services related to connectivity to the internet (routing, denial of service, firewalling, ...)
   - rackspace & other datacenter services
@@ -166,7 +166,7 @@ A Cooperative can supply any or all of following services.
 
 ## Do It Yourself Capacity
 
-Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects). Farmers have no access to the 3Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TF Chain, in a secure private and neutral way, equally applicable to all.
+Unmanaged IT Capacity can exist everywhere; in people’s home, in mobile telephone masts, in utility cabinets, next to railways or motorways, anywhere where internet lines meet electrical outlets, any IT Hosting or Datacenter Facility. This capacity is deployed to the TF Grid and has no people involved to manage its operations (apart from the physical and network aspects). Farmers have no access to the 3Nodes purchased. They can only use the capacity produced in the exact same way as any other user, i.e. through the TFChain, in a secure private and neutral way, equally applicable to all.
 
 Unmanaged capacity provides the following 3 basic services
 
@@ -174,8 +174,8 @@ Unmanaged capacity provides the following 3 basic services
 - Compute Capacity = backend compute capacity which can be used as backend for more high level compute services like Kubernetes.
 - Network Gateway Services: integration with ZeroTier network, HTTP(s) reverse proxy, DNS services, TCP Portforwarding.
 
-These basic services are ordered through the TF Chain only.
-SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity and as such not registered in the TF Chain.
+These basic services are ordered through the TFChain only.
+SLA's (service level agreements) cannot be be guaranteed on Unmanaged Capacity and as such not registered in the TFChain.
 
 ## Certified Capacity
 

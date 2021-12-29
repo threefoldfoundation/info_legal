@@ -7,7 +7,7 @@
 !!!include:part_6_restrictions
 !!!include:part_7_representations_and_warranties
 !!!include:part_8_capacity_measurement_minting
-!!!include:part_9_capacity_sales
+!!!include:part_9_capacity_utilization
 !!!include:part_10_term_termination
 !!!include:part_11_intellectual_property
 !!!include:part_12_indemnification

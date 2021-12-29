@@ -102,7 +102,7 @@ or should we write?
 # T
 
 - TF Certified Capacity
-- TF Chain: all blockchain related technologies on top of TFGrid
+- TFChain: all blockchain related technologies on top of TFGrid
   - ThreeFold Chain
 - ThreeFold Cockpit
 - TF DIY Capacity

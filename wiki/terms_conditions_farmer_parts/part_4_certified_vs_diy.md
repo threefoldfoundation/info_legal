@@ -16,3 +16,4 @@ The following criteria or requirements are checked (timing of implementation, se
 ThreeFold Foundation or TFTech may give free certification to 3Nodes that benefit the distribution of capacity on the ThreeFold_Grid.
 
 ThreeFold Foundation or TFTech may also certify certain hardware partners (i.e. certified hardware vendors) as part of this certification process.
+

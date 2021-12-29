@@ -1,4 +1,4 @@
-### 8. TFT Minting (Token Creation ‘FARMING of capacity’) for TFGrid 2.X
+### 8. TFT Minting (Token Creation ‘FARMING of capacity’) For TFGrid 3.x
 
 #### 8.1 General Principle
 
@@ -23,16 +23,17 @@ _2. PRICE OF TFT = THREEFOLD TOKEN_
 
 The Price of TFT is registered at point of connection or an averaged out period.
 
+Each farmer needs to register their TFT farming account in the TF Explorer through the TF Chain (see manual).
+
 _3. Certification_
 
 When connecting reliable hardware the Farmer can request a certification from TF Tech NV which leads to increased earnings in TFT for such ‘Certified Farmers’. We automatically measure uptime, bandwidth and the utilization of the node for this certification. The details of this certification have to be further defined and will be set out on our wiki.
 
-The TFChain and TFGrid capabilities & specifications can change over time after getting consensus from the DAO = Decentralized Autonomous Organization.
-The specific requirements and workings of the DAO are or will be publised on our wikisystem: https://library.threefold.me/info/threefold#/ 
+The specific way how farming rewards are calculated is specified on:
 
-If the DAO (by means of X nr of members of the Community) agree on a change of the protocol used or specifications for the Software or TFGrid then the Validators can allow and execute an upgrade of the system (TFChain as well as ZERO-OS software). Farmers and Users accept changes introduced this way, they accept that any of above mentioned variables can be changed that way.
+- https://library.threefold.me/info/threefold#/tfgrid/farming/farming_reward
+- https://library.threefold.me/info/threefold#/tfgrid/farming/proof_of_capacity
 
-Farming (minting) specifications are specified on https://library.threefold.me/info/threefold#/tfgrid/farming/farming_reward2 
 
 #### 8.3 Uptime
 
@@ -44,4 +45,11 @@ You will be solely responsible for payment of all applicable taxes (if any) asso
 
 #### 8.5 Modification
 
-The Company reserves the right to modify the terms of this section 8 (‘_Capacity Measurement and Minting - ‘Farming’_) at any time, including but not limited to the determination of the Difficulty Level. Such amendments will be subject to the approval of a majority of the members of the Company’s ‘Grid Counsel’ and a majority of the Farmers (whereby majority is measured based on nr of 3Nodes a Farmer has, each 3Node entitles the Farmer to one vote, Farmers who do not vote have no say in the decision process) who participate in an online poll organized by the Company In case of modification to these terms, the Company shall inform the Farmer at least one month in advance. In case the Farmer would not agree to such modifications, the Farmer shall have the right to immediately and unilaterally terminate this Agreement by disconnecting the Farming Pool from the ThreeFold_Grid.
+The Company reserves the right to modify the terms of this section 8 (‘_Capacity Measurement and Minting - ‘Farming’_) at any time. Such amendments will be subject to the approval of the majority of the Farmers (whereby majority is measured based on nr of 3Nodes a Farmer has, each 3Node entitles the Farmer to one vote, Farmers who do not vote have no say in the decision process) who participate in an online poll organized by the Company or the DAO. 
+
+In case of modification to these terms, the Company or DAO shall inform the Farmer at least one month in advance. In case the Farmer would not agree to such modifications, the Farmer shall have the right to immediately and unilaterally terminate this Agreement by disconnecting the Farming Pool from the ThreeFold_Grid.
+
+The TFChain and TFGrid capabilities & specifications can change over time after getting consensus from the DAO .
+The specific requirements and workings of the DAO are or will be publised on our wikisystem: https://library.threefold.me
+
+If the DAO (by means of X nr of members of the Community) agree on a change of the protocol used or specifications for the Software or TFGrid then the Validators can allow and execute an upgrade of the system (TFChain as well as ZERO-OS software). Farmers and Users accept changes introduced this way, they accept that any of above mentioned variables can be changed that way.

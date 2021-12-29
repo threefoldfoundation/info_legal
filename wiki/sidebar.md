@@ -1,7 +1,10 @@
+- [Terms Conditions 2](terms_conditions_all)
+- [Terms Conditions 3](terms_conditions_all3)
+------------------
 - [Definitions](@definitions_legal)
 - [Disclaimer](@disclaimer)
 - [farmer_terms_conditions 2.x](@terms_conditions_farmer)
-- [farmer_terms_conditions 3.x](@terms_conditions_farmer)
+- [farmer_terms_conditions 3.x](@terms_conditions_farmer3)
 - [terms_conditions_websites](@terms_conditions_websites)
 - [terms_conditions_griduser](@terms_conditions_griduser)
 - [privacypolicy](@privacypolicy)

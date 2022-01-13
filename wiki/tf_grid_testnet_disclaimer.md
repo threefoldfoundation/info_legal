@@ -10,3 +10,9 @@ By using this early version of all products, including but not limited to **Demo
 All content provided on all products, including but not limited to Demo, 3Bot on Main Net and Testnet are provided without any representations or warranties of any kind. No Party involved in, or having contributed to the development of Demo and Testnet accept any responsibility or liability to Users or any third parties in relation to materials or information accessed or downloaded via the Demo and Testnet, and their related websites or information sources.
 
 In no event shall the Parties Involved have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of products on the Main Net and Testnet.
+
+## APPENDIX
+
+!!!include:threefold_companies0
+
+!!!include:the_single_source_truth

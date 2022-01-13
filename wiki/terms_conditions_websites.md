@@ -22,3 +22,9 @@
 !!!include:part_17_electronic_comms_transactions_signatures
 !!!include:part_18_miscellaneous
 !!!include:part_19_contact_us
+
+## APPENDIX
+
+!!!include:threefold_companies0
+
+!!!include:the_single_source_truth

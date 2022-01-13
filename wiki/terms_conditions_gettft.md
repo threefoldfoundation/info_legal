@@ -89,3 +89,7 @@ b.	you are in breach of this Agreement;
 8.3 Applicable law. The laws of the United Arab Emirates applies to all transactions. 
 
 8.4 All disputes between parties, including those disputes that are only regarded to be a dispute by one of the parties, will be adjudicated by the court with competent jurisdiction of the United Arab Emirates.
+
+## APPENDIX
+
+!!!include:the_single_source_truth

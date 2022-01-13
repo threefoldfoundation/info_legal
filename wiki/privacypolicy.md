@@ -116,3 +116,4 @@ If you have any questions about our privacy policy, the data we hold on you, or 
 
 Email us at: dataprivacy@threefold.io
 
+!!!include:the_single_source_truth

@@ -293,3 +293,5 @@ means the open source software connecting the Hardware to the ThreeFold network,
 ### “Specifications”
 
 means the technical requirements for, and performance standards of, the Deliverables as set forth in the Sales Order or Documentation provided to Customer.
+
+!!!include:the_single_source_truth

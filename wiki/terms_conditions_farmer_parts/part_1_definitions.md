@@ -1,15 +1,15 @@
 ### 1. DEFINITIONS
 
-Unless defined otherwise in this Agreement below, capitalized terms in this Agreement shall have the meaning ascribed to them in the following links for [Definitions](threefold:definitions_concepts).
+Unless defined otherwise in this Agreement below, capitalized terms in this Agreement shall have the meaning ascribed to them in the following links for [Definitions](definitions_legal).
 
 SPECIAL DEFINITIONS
 
 - THREEFOLD COMPANIES noted as  (“**THREEFOLD**”, “**COMPANY**,” “**US**,” “**WE**” OR “**OUR**”) mean any of the companies as mentioned below:
-    - DUBAI
-        - THREEFOLD DMCC 
+    - DUBAI & BVI
+        - THREEFOLD DMCC, THREEFOLD BVI 
         - THREEFOLD FZC (the original ThreeFold, no longer active):
         - THREEFOLD IT LABS
-        - MAZRAA IS BRANNAME OF THREEFOLD IT LABS
+        - MAZRAA IS BRANDNAME OF THREEFOLD IT LABS
     - EUROPE
         - THREEFOLD VZW
         - TFTECH NV BELGIUM

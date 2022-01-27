@@ -66,7 +66,7 @@ a.	your use of the Services (i) poses a security risk to the Services or any thi
 
 b.	you are in breach of this Agreement;
 
-5.2 Effect of Suspension. If we suspend your right to access or use any portion or all of the Services, or in the event of cancellation of a transaction by THREEFOLD LABS IT, the monies paid to THREEFOLD LABS IT and/or the cryptocurrencies delivered to it will be returned after deduction of the costs incurred and the damages suffered by THREEFOLD LABS IT as a result of any exchange rate fluctuations. THREEFOLD LABS IT is under no circumstances liable for compensation toward you.
+5.2 Effect of Suspension. If we suspend your right to access or use any portion or all of the Services, or in the event of cancellation of a transaction by TF Hub Limited, the monies paid to TF Hub Limited and/or the cryptocurrencies delivered to it will be returned after deduction of the costs incurred and the damages suffered by TF Hub Limited as a result of any exchange rate fluctuations. TF Hub Limited is under no circumstances liable for compensation toward you.
 
 6. Disclaimers & Risk
 

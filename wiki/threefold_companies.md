@@ -6,6 +6,7 @@ FOLLOWING COMPANIES ARE RELATED PARTIES TO THREEFOLD, OUR TERMS AND CONDITIONS A
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------|
 | [ThreeFold_Dubai = ThreeFold_Foundation](threefold:threefold_dubai) | Main promotional vehicle for ThreeFold Foundation                                          |
 | [Threefold_Tech](threefold:threefold_tech)                          | Belgium-based tech company owns IP (Intellectual Property) of tech, is open source         |
+| ThreeFold S.A.                                                      | ThreeFold in Luxembourg (NEW)         |
 | [ThreeFold_VZW](threefold:threefold_vzw)                            | Non for profit organization in BE, protects our values (home of wisdom council)            |
 | TF Hub Limited                                                      | ThreeFold in BVI (NEW)                                                                     |
 | [ThreeFold_AG](threefold:threefold_ag)                              | ThreeFold in Zug, Switzerland (NEW)                                                        |

@@ -200,7 +200,7 @@ ThreeFold DMCC
 Unit No: BA1120 DMCC Business Centre, Level No 1, Jewellery & Gemplex 3, Dubai, United Emirates Arab
 
 or to the Consultant at:
-Christian Rockenbauer, Mbweni Rd, P.O BOX 3775, Zanzibar, Tanzania
+....
 
 
 Notice of change of address shall be effective only when done in accordance with this Section.
@@ -214,17 +214,12 @@ THIS CONTRACT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY 
 
 
 
-ThreeFold DMCC					CONSULTANT
-
-
-
-													
-Authorized Signature	Authorized Signature
-													
-Adnan Fatayerji, Founder		Christian Rockenbauer
 
 Exhibit A 
-Definition 
+
+> TODO: prob need to go on top
+
+Definitions
 
 In this Agreement, the following terms shall have the following meaning:
 
@@ -241,35 +236,5 @@ In this Agreement, the following terms shall have the following meaning:
 
 
 - “Maximum Salary”:	means the maximum salary that Consultant shall received minus the already paid Base Salary, Accelerated Salary and Funding Salary. Maximum Salary is achieved when a new Net Cash has reached the Company or Affiliate Company’s Bank Account. Maximum Salary is aggregated for up to 12 months. 
-
-
-
-
-
-
-EXHIBIT B 
-Scope of Services
-
-
-
-
-The company defines the scope of work for the consultant as per the tickets and projects assigned to the consultant via the company’s Project management tools which include:
-
-
-Business Development Circle: 
-https://circles.threefold.me/project/foundation_funnel/timeline
-
-Travel and Expenses Circle: 
-
-https://circles.threefold.me/project/threefold_travel/timeline 
-
-and any other project management tools the company may use in the future. 
-
-
-EXHIBIT C 
-Additional Information
-
-
-Information about reward system: http://rewardsystem.threefold.me. It includes a calculation about remuneration. 
 
 

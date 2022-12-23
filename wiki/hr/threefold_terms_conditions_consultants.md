@@ -3,6 +3,29 @@
 
 THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT BETWEEN YOU (“CONSULTANT","CONTRACTOR", "CONTRIBUTOR", “**YOU**", OR “**YOURS**”) AND TRC (“**THREEFOLD**”, “**COMPANY**,” “**US**,” “**WE**” OR “**OUR**”), GOVERNING THE TERMS OF YOUR PARTICIPATION AS A CONTRIBUTOR, CONSULTANT ,PARTNER, CUSTOMER, FARMER OR USER IN THE THREEFOLD GRID. YOU UNDERSTAND AND AGREE THAT BY ACCEPTING THE TERMS OF THIS AGREEMENT, BY SIGNING AN AGREEMENT WHICH LINKS TO THESE TERMS AND CONDITIONS, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT EFFECTIVE AS OF THE DATE THAT YOU HAVE SIGNED THE ABOVE MENTIONED AGREEMENT. YOU REPRESENT AND WARRANT THAT YOU ARE 18 YEARS OLD OR OLDER AND HAVE THE RIGHT AND AUTHORITY TO ENTER INTO AND COMPLY WITH THE TERMS OF THIS AGREEMENT.
 
+### Definitions
+
+In this Agreement, the following terms shall have the following meaning:
+
+#### - “Affiliated Companies”:	
+means all entities in relation ThreeFold (ThreeFold S.A., TF Tech NV, ThreeFold DMCC, ThreeFold Labs IT, ThreeFold VZW, TF Hub BVI, ThreeFold AG)
+
+#### - “Net Cash Margin”:
+means the cash as received on the bank account of the Company for the benefit of Company and Affiliated Companies minus all direct and indirect costs for the project at that point or in the future. 
+
+#### - “Qualified Lead”:	
+means specific named prospect, being a person/s or legal entity which has been independently identified by Consultant, and which prior to such identification was not yet in contact with Company or any Affiliated Companies and for which the referrer had registered the details of the prospect on the Company’s Project Management Tool and Company had subsequently agreed (in writing or by email) that is accepted as a Qualified Lead.
+
+#### - “Base Salary”:
+means the minimum amount to be received, per month, as an exchange for the services and time.
+
+
+#### -  “Accelerated Salary”: 
+means the salary to be received minus the already paid Base Salary after the Net Cash reaches the Company or Affiliate Company’s Bank Account. The amount received is the minimum amount between 25% of Net Cash received on the Company or Affiliate Company’s Bank Account and the Accelerated Salary highlighted in Section 5. It is aggregated for up to 3 months. 
+
+#### - “Maximum Salary”:
+means the maximum salary that Consultant shall received minus the already paid Base Salary, Accelerated Salary and Funding Salary. Maximum Salary is achieved when a new Net Cash has reached the Company or Affiliate Company’s Bank Account. Maximum Salary is aggregated for up to 12 months. 
+
 3.1.	Basic Term 
 The Company hereby retains the Consultant and Consultant agrees to render to the Company those services described in Exhibit B for the period (the “Consulting Period”) commencing on the date of this Agreement and ending upon the earlier of (i) 12 months after the date of this Agreement, (the “Term Date”), and (ii) the date the Consulting Period is terminated in accordance with Section 7. The Company shall pay the Consultant the compensation to which it is entitled under Section 5 through the end of the Consulting Period, and, thereafter, the Company’s obligations hereunder shall end.
 3.2.	Renewal 
@@ -40,11 +63,9 @@ Total Salary: 2,500 + 3,500 = 6,000 Euros per month for 3 months
 
 For example (2): After 3 months, Consultant closed a Corporate Deal worth of 100,000 Euros (Net Cash Margin), Consultant shall received 0 Euros per month as Accelerated Salary.maximum{0,(minimum(0.25 100,000) -(2500 3));6,000 -(2500 3)}.
 Total Salary: 2,500 Euros per month 
-	5.1.3 Maximum Salary 
+
+#### 5.1.3 Maximum Salary 
 As per its corresponding definition highlighted in the Exhibit A, Consultant shall be paid a salary up to 25,000 Euros per month for up to 12 months according to the 5% commission (“Commission Percentage”) on the  Net Cash Margin received on Company and Affiliated Companies’ Bank Account (“Maximum Salary”). Commission shall deduct all the already paid Base Salary and Accelerated Salary. 
-
-
-
 
 Formula - Number of Month (“M”) : minimum{((Commission Percentage Net Cash Margin)  Maximum Salary);12}
 
@@ -215,26 +236,7 @@ THIS CONTRACT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY 
 
 
 
-Exhibit A 
-
-> TODO: prob need to go on top
-
-Definitions
-
-In this Agreement, the following terms shall have the following meaning:
-
-- “Affiliated Companies”:	means all entities in relation ThreeFold (ThreeFold S.A., TF Tech NV, ThreeFold DMCC, ThreeFold Labs IT, ThreeFold VZW, TF Hub BVI, ThreeFold AG)
-
-- “Net Cash Margin”:	means the cash as received on the bank account of the Company for the benefit of Company and Affiliated Companies minus all direct and indirect costs for the project at that point or in the future. 
-
-- “Qualified Lead”:	means specific named prospect, being a person/s or legal entity which has been independently identified by Consultant, and which prior to such identification was not yet in contact with Company or any Affiliated Companies and for which the referrer had registered the details of the prospect on the Company’s Project Management Tool and Company had subsequently agreed (in writing or by email) that is accepted as a Qualified Lead.
-
-- “Base Salary”:	means the minimum amount to be received, per month, as an exchange for the services and time.
 
 
--  “Accelerated Salary”:	means the salary to be received minus the already paid Base Salary after the Net Cash reaches the Company or Affiliate Company’s Bank Account. The amount received is the minimum amount between 25% of Net Cash received on the Company or Affiliate Company’s Bank Account and the Accelerated Salary highlighted in Section 5. It is aggregated for up to 3 months. 
-
-
-- “Maximum Salary”:	means the maximum salary that Consultant shall received minus the already paid Base Salary, Accelerated Salary and Funding Salary. Maximum Salary is achieved when a new Net Cash has reached the Company or Affiliate Company’s Bank Account. Maximum Salary is aggregated for up to 12 months. 
 
 

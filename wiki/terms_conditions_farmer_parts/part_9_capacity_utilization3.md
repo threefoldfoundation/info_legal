@@ -23,7 +23,7 @@ TFT received for people using capacity is disributed as follows:
 | 35%        | needs to be burned                     | results in more TFT burned compared to generated once grid more mature.  |
 | 10%        | to TF Foundation                       | used to promote the manage the project.                                  |
 | 5%         | to Staking Pool for TF Validators | used to reward the people who run the TFChain 3.0 blockchain validators. |
-| 50%        | for solution providers & sales channel | managed by [ThreeFold DAO](/tfgrid/farming/threefold__tfdao).                                       |
+| 50%        | for solution providers & sales channel | managed by [ThreeFold DAO](/tfgrid/farming/tfdao).                                       |
 
 the single source of truth for Utilization specifications is on https://library.threefold.me/info/threefold#/tfgrid/farming/proof_of_utilization
 

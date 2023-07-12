@@ -8,7 +8,7 @@ THESE TERMS AND CONDITIONS (THE "**AGREEMENTS**") CONSTITUTE A LEGAL AGREEMENT B
 - [X] [Definitions](definitions_legal)
 - [X] [Privacy Policy](privacypolicy)
 - [X] [Terms & Conditions ThreeFold Related Websites](terms_conditions_websites)
-- [X] [Terms & Conditions TFGrid Users TFGrid 3](terms_conditions_griduser3)
+- [X] [Terms & Conditions TFGrid Users TFGrid 3](terms_conditions_griduser)
 - [X] [Terms & Conditions TFGrid Farmers TFGrid 3](terms_conditions_farmer3) : relevant if you are a TFGrid Farmer
  
 

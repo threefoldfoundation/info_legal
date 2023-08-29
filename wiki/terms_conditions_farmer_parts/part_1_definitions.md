@@ -7,7 +7,7 @@ SPECIAL DEFINITIONS
 - THREEFOLD COMPANIES noted as  (“**THREEFOLD**”, “**COMPANY**,” “**US**,” “**WE**” OR “**OUR**”) mean any of the companies as mentioned below:
     - DUBAI & BVI
         - THREEFOLD DMCC, TF Hub Limited 
-        - THREEFOLD FZC (the original ThreeFold, no longer active):
+        - THREEFOLD FZC (the original ThreeFold in UAE, no longer active)
         - THREEFOLD LABS IT
         - MAZRAA IS BRANDNAME OF THREEFOLD LABS IT
     - EUROPE

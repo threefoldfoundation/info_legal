@@ -1,5 +1,4 @@
-- [Terms Conditions 2](terms_conditions_all)
-- [Terms Conditions 3](terms_conditions_all3)
+- [Terms Conditions](terms_conditions_all3)
 ------------------
 - [Definitions](@definitions_legal)
 - [Disclaimer](@disclaimer)

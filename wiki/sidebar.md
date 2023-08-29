@@ -2,10 +2,9 @@
 ------------------
 - [Definitions](@definitions_legal)
 - [Disclaimer](@disclaimer)
-- [farmer_terms_conditions 2.x](@terms_conditions_farmer)
-- [farmer_terms_conditions 3.x](@terms_conditions_farmer3)
+- [farmer_terms_conditions](@terms_conditions_farmer3)
 - [terms_conditions_websites](@terms_conditions_websites)
-- [terms_conditions_grid 3.x](@terms_conditions_tfgrid3)
+- [terms_conditions_grid](@terms_conditions_tfgrid3)
 - [privacypolicy](@privacypolicy)
 --------------------
 - TFTECH

@@ -5,5 +5,4 @@
 - [terms_conditions_griduser](@terms_conditions_griduser)
 - [privacypolicy](@privacypolicy)
 - [TFTECH](@threefold:threefold_tech0)
-  - [T&C Farming Solution](@terms_conditions_farmingsolution)
   - [T&C Sales](@terms_conditions_sales)

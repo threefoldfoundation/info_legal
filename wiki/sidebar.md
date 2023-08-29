@@ -8,5 +8,4 @@
 - [privacypolicy](@privacypolicy)
 --------------------
 - TFTECH
-  - [T&C Farming Solution](@terms_conditions_farmingsolution)
   - [T&C Sales](@terms_conditions_sales)

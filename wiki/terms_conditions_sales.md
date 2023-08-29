@@ -87,3 +87,6 @@ Governing Law. All disputes will be governed by the laws of Belgium. The venue f
 
 Changes. TF Tech NV reserves the right to vary these T&Cs at any time. TF Tech NV will inform customers by email if the T&Cs change using the contact email provided at the time of purchase, or using any email subsequently provided by the customer as their main email. The customer agrees that they will always ensure such emails are up to date and monitored. Any variations to the T&Cs will be deemed to have been accepted unless TF Tech NV is informed to the contrary.
 
+## APPENDIX
+
+!!!include:the_single_source_truth

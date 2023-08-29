@@ -1,4 +1,4 @@
-### 9. CAPACITY SALES (‘UTILIZATION’)
+### 9. CAPACITY SALES (‘UTILIZATION’) = TFGrid 2.X
 
 #### 9.1 General Principles
 

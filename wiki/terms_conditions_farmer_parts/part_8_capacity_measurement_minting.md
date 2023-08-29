@@ -1,4 +1,4 @@
-### 8. TFT Minting (Token Creation ‘FARMING of capacity’)
+### 8. TFT Minting (Token Creation ‘FARMING of capacity’) TFGrid 2.x
 
 #### 8.1 General Principle
 
@@ -6,7 +6,11 @@ Farmers who connect 3Nodes on an ongoing basis to the ThreeFold_Grid by running 
 
 #### 8.2 Calculation of Farmed TFTs
 
-The details of farming (minting of TFT’s) are described on our [farming logic](threefold:farming_reward) and this location serves as master for the TFT Reward Process. The wiki is version controlled (on github), so all changes can be followed.All connected IT Capacity gets registered on the TF Chain, i.e. ThreeFolds blockchain software. Each month the TF Chain issues new TFTs and transfers them to Farmers in respect of each 3Node that remained connected to the ThreeFold_Grid during the preceding month, using the following calculation in respect of each 3Node:
+The details of farming (minting of TFT’s) are described on our [farming logic TFGrid 2](threefold:farming_reward2) and this location serves as master for the TFT Reward Process. 
+
+Farming for TFGrid 2.x is on https://library.threefold.me/info/threefold/#/farming_reward2
+
+The wiki is version controlled (on github), so all changes can be followed.All connected IT Capacity gets registered on the TF Chain, i.e. ThreeFolds blockchain software. Each month the TF Chain issues new TFTs and transfers them to Farmers in respect of each 3Node that remained connected to the ThreeFold_Grid during the preceding month, using the following calculation in respect of each 3Node:
 
 ![farmer_tcs_minting_equation](img/farmer_tcs_minting_equation.jpg)
 
@@ -47,3 +51,4 @@ You will be solely responsible for payment of all applicable taxes (if any) asso
 #### 8.5 Modification
 
 The Company reserves the right to modify the terms of this section 8 (‘_Capacity Measurement and Minting - ‘Farming’_) at any time, including but not limited to the determination of the Difficulty Level. Such amendments will be subject to the approval of a majority of the members of the Company’s ‘Grid Counsel’ and a majority of the Farmers (whereby majority is measured based on nr of 3Nodes a Farmer has, each 3Node entitles the Farmer to one vote, Farmers who do not vote have no say in the decision process) who participate in an online poll organized by the Company In case of modification to these terms, the Company shall inform the Farmer at least one month in advance. In case the Farmer would not agree to such modifications, the Farmer shall have the right to immediately and unilaterally terminate this Agreement by disconnecting the Farming Pool from the ThreeFold_Grid.
+

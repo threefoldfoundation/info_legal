@@ -1,1 +1,1 @@
-These Terms and Conditions (the "**Agreement**") constitute a legal agreement between you (“**user**," “**you**", or “**yours**”) and ThreeFold_Dubai and/or TFTech  (“**Threefold**”, “**Company**,” “**us**,” “**we**” or “**our**”)
+These Terms and Conditions (the "**Agreement**") constitute a legal agreement between you (“**user**," “**you**", or “**yours**”) and [THREEFOLD RELATED COMPANIES](threefold_companies)  (“**Threefold**”, “**Company**,” “**us**,” “**we**” or “**our**”)
